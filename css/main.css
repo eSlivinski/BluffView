@@ -1,0 +1,267 @@
+
+/* GENERAL INTERFACE STYLING */
+@import url(http://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800);
+*{
+	font-family: 'Dosis', sans-serif;
+	font-weight: 500;
+}
+
+body{
+	background-color: black;
+	overflow-y: hidden;
+	overflow-x: hidden;
+}
+label{
+	color: white;
+}
+::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+	opacity: .4;
+}
+::-webkit-scrollbar
+{
+	width: 6px;
+	opacity: .4;
+	background-color: #F5F5F5;
+}
+::-webkit-scrollbar-thumb
+{
+	background-color: #000000;
+}
+.navbar-brand{
+	color: #fff !important;
+}
+
+.hidden{
+	display: none;
+}
+.btn-link{
+	text-decoration: none !important;
+}
+.prettyCheck>i{
+	color: black !important;
+	padding-top: 3px;
+}
+.active-btn{
+	color: #fff !important;
+}
+.semibold{
+	font-weight: 600;
+}
+.radio, .checkbox{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.navbar{
+	margin-bottom: 0px;
+}
+.navbar-fixed-bottom{
+	min-height: 0px;
+}
+.navbar-fixed-bottom > .container-fluid > .navbar-text{
+	width: 100%;
+	margin: 0px;
+}
+
+.customTools{
+	position: absolute;
+  	z-index: 1;
+  	/*display: none;*/
+  	max-width: 276px;
+	padding: 5px;
+	text-align: left;
+	white-space: normal;
+	background-color: #fff;
+	-webkit-background-clip: padding-box;
+	      background-clip: padding-box;
+	border: 1px solid #ccc;
+	border: 1px solid rgba(0, 0, 0, .2);
+	border-radius: 6px;
+	-webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+	      box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+}
+.tool-header{
+	min-height: 16.42857143px;
+	padding: 5px;
+	border-bottom: 1px solid #e5e5e5;
+}
+.tool-footer{
+
+  padding: 5px;
+  text-align: right;
+  border-top: 1px solid #e5e5e5;
+
+}
+.up-top{
+	top: 0;
+}
+.down-low{
+	bottom: 0;
+}
+.left-side{
+	left: 0;
+}
+.right-side{
+	right: 0;
+}
+.tool-body{
+	padding: 5px;
+}
+/* MAP STLYING */
+#map{
+	height: 310px;
+	width: 310px;
+	bottom: 0px;
+}
+#map.measure{
+	cursor: crosshair;
+}
+
+.Toe{
+	stroke: turquoise;
+	fill: none;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+}
+.Top{
+	stroke: yellow;
+	fill: none;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+}
+.halo{
+	stroke: pink;
+	fill: none;
+	stroke-opacity:0;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	cursor: pointer;
+}
+.transparent{
+	stroke-opacity:0;
+}
+#Top_d0{
+	stroke: yellow;
+	fill: none;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+
+}
+
+#Toe_d0{
+	stroke: turquoise;
+	fill: none;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+}
+
+
+/* MENU STYLING  */
+#mapControls{
+	border-top : 1px solid #ccc;
+}
+#layersPanel{
+	padding-left: 10px;
+}
+#slider{
+	margin-top: 5px;
+}
+
+.big{
+	margin-left: 20px;
+	margin-top: 15px;
+	font-size: 25px;
+	color: #777;
+	text-decoration: none !important;
+}
+.big:hover{
+	text-decoration: none !important;
+	color: #fff;
+}
+
+/* POPOVER STYLING */
+.popover .arrow{
+	opacity: 0;
+}
+.small-close{
+	font-size: 14px !important;
+}
+.tick{
+	display: inline-block;
+	letter-spacing: 2px;
+	font-size: 10px;
+	-webkit-transform: rotate(-60deg);
+	transform: rotate(-60deg);
+	position: absolute;
+	color: white;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+.tick>a{
+	color: #777;
+}
+.tick>a:hover{
+	color: white;
+}
+
+.playing{
+	color: #fff !important;
+}
+.tooltip.bottom > .tooltip-arrow{
+	top: 0 !important;
+}
+.tooltip.top > .tooltip-arrow{
+	top: initial !important;
+}
+
+.currentYear{
+	background-color: #e8e8e8;
+	background-image: -webkit-linear-gradient(top, #f5f5f5 0%, #e8e8e8 100%);
+	background-image: -o-linear-gradient(top, #f5f5f5 0%, #e8e8e8 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(#e8e8e8));
+	background-image: linear-gradient(to bottom, #f5f5f5 0%, #e8e8e8 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff5f5f5', endColorstr='#ffe8e8e8', GradientType=0);
+	background-repeat: repeat-x;
+
+}
+.rightList{
+	position: absolute;
+	right: 10px;
+}
+.prettyCheckBox.fa-square-o{
+	margin-right: 10px;
+}
+.prettyCheckBox.fa-check-square-o{
+	margin-right: 8px;
+}
+
+.prettyRadioBtn{
+	margin-right: 10px;
+}
+
+
+
+/* Overview Map */
+.lake{
+	fill : #8AACB4;
+}
+.lakeLabels{
+	writing-mode: tb;
+	fill: aliceblue;
+	font-style: italic;
+}
+.state{
+	fill:none;
+	stroke:rgb(195, 176, 150);
+	stroke-width: 2;
+}
+.county{
+	stroke: #555;
+	stroke-width: 1;
+	fill: rgb(255, 208, 33);
+}
+.notflaticon{
+	margin-left: 20px;
+}

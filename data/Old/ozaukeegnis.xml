@@ -1,0 +1,2648 @@
+<document>
+ <row>
+  <FEATURE_ID>1561517</FEATURE_ID >
+  <FEATURE_NAME>Belgium</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4997212</LAT >
+  <LON>-87.850367</LON >
+  <RESULT>Belgium ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1561786</FEATURE_ID >
+  <FEATURE_NAME>Bigelow School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2652837</LAT >
+  <LON>-87.9639779</LON >
+  <RESULT>Bigelow School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1562060</FEATURE_ID >
+  <FEATURE_NAME>Bonniwell School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2650058</LAT >
+  <LON>-88.0028676</LON >
+  <RESULT>Bonniwell School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1562619</FEATURE_ID >
+  <FEATURE_NAME>Camp J C C</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.5099984</LAT >
+  <LON>-87.9875921</LON >
+  <RESULT>Camp J C C ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1562841</FEATURE_ID >
+  <FEATURE_NAME>Cedar Creek</FEATURE_NAME >
+  <FEATURE_CLASS>Stream</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2905608</LAT >
+  <LON>-87.9512001</LON >
+  <RESULT>Cedar Creek ( Stream )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1562869</FEATURE_ID >
+  <FEATURE_NAME>Cedarburg</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2966716</LAT >
+  <LON>-87.9875898</LON >
+  <RESULT>Cedarburg ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1562870</FEATURE_ID >
+  <FEATURE_NAME>Cedarburg Bog</FEATURE_NAME >
+  <FEATURE_CLASS>Swamp</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3869464</LAT >
+  <LON>-88.0062023</LON >
+  <RESULT>Cedarburg Bog ( Swamp )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1562871</FEATURE_ID >
+  <FEATURE_NAME>Cedarburg Bog State Natural Area</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3822243</LAT >
+  <LON>-88.0106468</LON >
+  <RESULT>Cedarburg Bog State Natural Area ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1563562</FEATURE_ID >
+  <FEATURE_NAME>Crossroads Church</FEATURE_NAME >
+  <FEATURE_CLASS>Church</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2522284</LAT >
+  <LON>-87.984256</LON >
+  <RESULT>Crossroads Church ( Church )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1563682</FEATURE_ID >
+  <FEATURE_NAME>Daly Lake</FEATURE_NAME >
+  <FEATURE_CLASS>Lake</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4256535</LAT >
+  <LON>-87.9994572</LON >
+  <RESULT>Daly Lake ( Lake )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1563796</FEATURE_ID >
+  <FEATURE_NAME>Decker Corner</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3513918</LAT >
+  <LON>-88.0450914</LON >
+  <RESULT>Decker Corner ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1564053</FEATURE_ID >
+  <FEATURE_NAME>Donges Bay</FEATURE_NAME >
+  <FEATURE_CLASS>Bay</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2036193</LAT >
+  <LON>-87.8942534</LON >
+  <RESULT>Donges Bay ( Bay )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1564131</FEATURE_ID >
+  <FEATURE_NAME>Drzewiceki Lake</FEATURE_NAME >
+  <FEATURE_CLASS>Lake</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3657177</LAT >
+  <LON>-87.9904817</LON >
+  <RESULT>Drzewiceki Lake ( Lake )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1564190</FEATURE_ID >
+  <FEATURE_NAME>Dunwiddie Elementary School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.384141</LAT >
+  <LON>-87.8938809</LON >
+  <RESULT>Dunwiddie Elementary School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1564463</FEATURE_ID >
+  <FEATURE_NAME>Ehler County Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4100016</LAT >
+  <LON>-87.9373122</LON >
+  <RESULT>Ehler County Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1564570</FEATURE_ID >
+  <FEATURE_NAME>Elm Tree School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2791719</LAT >
+  <LON>-88.0264792</LON >
+  <RESULT>Elm Tree School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1565037</FEATURE_ID >
+  <FEATURE_NAME>Five Corners</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.322504</LAT >
+  <LON>-88.0062016</LON >
+  <RESULT>Five Corners ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1565286</FEATURE_ID >
+  <FEATURE_NAME>Fredonia</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4705552</LAT >
+  <LON>-87.9506465</LON >
+  <RESULT>Fredonia ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1565298</FEATURE_ID >
+  <FEATURE_NAME>Freistadt</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2361175</LAT >
+  <LON>-88.0425902</LON >
+  <RESULT>Freistadt ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1565686</FEATURE_ID >
+  <FEATURE_NAME>Gough Lake</FEATURE_NAME >
+  <FEATURE_CLASS>Lake</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4111722</LAT >
+  <LON>-88.00344</LON >
+  <RESULT>Gough Lake ( Lake )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1565701</FEATURE_ID >
+  <FEATURE_NAME>Grady Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3833357</LAT >
+  <LON>-87.9412009</LON >
+  <RESULT>Grady Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1565704</FEATURE_ID >
+  <FEATURE_NAME>Grafton</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3197265</LAT >
+  <LON>-87.9534226</LON >
+  <RESULT>Grafton ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1565728</FEATURE_ID >
+  <FEATURE_NAME>Grandview School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4697217</LAT >
+  <LON>-87.9945362</LON >
+  <RESULT>Grandview School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1565951</FEATURE_ID >
+  <FEATURE_NAME>First Immanuel Lutheran School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2985993</LAT >
+  <LON>-87.9937018</LON >
+  <RESULT>First Immanuel Lutheran School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1566010</FEATURE_ID >
+  <FEATURE_NAME>Hamilton</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.284172</LAT >
+  <LON>-87.9717561</LON >
+  <RESULT>Hamilton ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1566032</FEATURE_ID >
+  <FEATURE_NAME>Haneman Lake</FEATURE_NAME >
+  <FEATURE_CLASS>Lake</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3642018</LAT >
+  <LON>-87.9867641</LON >
+  <RESULT>Haneman Lake ( Lake )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1566046</FEATURE_ID >
+  <FEATURE_NAME>Sandhill Lake</FEATURE_NAME >
+  <FEATURE_CLASS>Lake</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4419537</LAT >
+  <LON>-87.9959897</LON >
+  <RESULT>Sandhill Lake ( Lake )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1566167</FEATURE_ID >
+  <FEATURE_NAME>Hawthorne Hills County Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4527779</LAT >
+  <LON>-87.9764802</LON >
+  <RESULT>Hawthorne Hills County Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1566541</FEATURE_ID >
+  <FEATURE_NAME>Holden Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4116682</LAT >
+  <LON>-87.9381456</LON >
+  <RESULT>Holden Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1566567</FEATURE_ID >
+  <FEATURE_NAME>Holstein School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2497286</LAT >
+  <LON>-87.9628666</LON >
+  <RESULT>Holstein School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1566584</FEATURE_ID >
+  <FEATURE_NAME>Holy Cross</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4702776</LAT >
+  <LON>-87.8956454</LON >
+  <RESULT>Holy Cross ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1566705</FEATURE_ID >
+  <FEATURE_NAME>Horns Corners</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3413922</LAT >
+  <LON>-88.0239799</LON >
+  <RESULT>Horns Corners ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1566792</FEATURE_ID >
+  <FEATURE_NAME>Huiras Lake</FEATURE_NAME >
+  <FEATURE_CLASS>Lake</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.5133718</LAT >
+  <LON>-87.9824657</LON >
+  <RESULT>Huiras Lake ( Lake )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1567359</FEATURE_ID >
+  <FEATURE_NAME>Katarina Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4405562</LAT >
+  <LON>-87.9403682</LON >
+  <RESULT>Katarina Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1567569</FEATURE_ID >
+  <FEATURE_NAME>Knellsville</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4141684</LAT >
+  <LON>-87.8709219</LON >
+  <RESULT>Knellsville ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1567600</FEATURE_ID >
+  <FEATURE_NAME>Kohler</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4963875</LAT >
+  <LON>-88.0234259</LON >
+  <RESULT>Kohler ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1567726</FEATURE_ID >
+  <FEATURE_NAME>Lake Church</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4997213</LAT >
+  <LON>-87.8206442</LON >
+  <RESULT>Lake Church ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1567747</FEATURE_ID >
+  <FEATURE_NAME>Lake Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3958355</LAT >
+  <LON>-87.8648105</LON >
+  <RESULT>Lake Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1567768</FEATURE_ID >
+  <FEATURE_NAME>Lakefield</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2950052</LAT >
+  <LON>-87.9256441</LON >
+  <RESULT>Lakefield ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1567770</FEATURE_ID >
+  <FEATURE_NAME>Lakeland School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4138901</LAT >
+  <LON>-87.9950912</LON >
+  <RESULT>Lakeland School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1568136</FEATURE_ID >
+  <FEATURE_NAME>Lindenwood School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2430618</LAT >
+  <LON>-88.0475903</LON >
+  <RESULT>Lindenwood School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1568318</FEATURE_ID >
+  <FEATURE_NAME>Little Menomonee Creek</FEATURE_NAME >
+  <FEATURE_CLASS>Stream</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2102851</LAT >
+  <LON>-88.0345342</LON >
+  <RESULT>Little Menomonee Creek ( Stream )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1568579</FEATURE_ID >
+  <FEATURE_NAME>Long Lake</FEATURE_NAME >
+  <FEATURE_CLASS>Lake</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.388815</LAT >
+  <LON>-88.0011093</LON >
+  <RESULT>Long Lake ( Lake )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1568794</FEATURE_ID >
+  <FEATURE_NAME>Ludowissi Lake</FEATURE_NAME >
+  <FEATURE_CLASS>Lake</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.5379882</LAT >
+  <LON>-87.9346771</LON >
+  <RESULT>Ludowissi Lake ( Lake )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1568980</FEATURE_ID >
+  <FEATURE_NAME>Maple Grove School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4122238</LAT >
+  <LON>-87.9059227</LON >
+  <RESULT>Maple Grove School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1569252</FEATURE_ID >
+  <FEATURE_NAME>McKinley School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4405562</LAT >
+  <LON>-87.9403682</LON >
+  <RESULT>McKinley School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1569354</FEATURE_ID >
+  <FEATURE_NAME>Mequon</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2363956</LAT >
+  <LON>-87.9845335</LON >
+  <RESULT>Mequon ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1569355</FEATURE_ID >
+  <FEATURE_NAME>Mequon Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2222294</LAT >
+  <LON>-87.9850889</LON >
+  <RESULT>Mequon Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1569356</FEATURE_ID >
+  <FEATURE_NAME>Range Line Elementary School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2191742</LAT >
+  <LON>-87.9420324</LON >
+  <RESULT>Range Line Elementary School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1569640</FEATURE_ID >
+  <FEATURE_NAME>Moldenhauer Lake</FEATURE_NAME >
+  <FEATURE_CLASS>Lake</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3385498</LAT >
+  <LON>-87.9842548</LON >
+  <RESULT>Moldenhauer Lake ( Lake )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1569994</FEATURE_ID >
+  <FEATURE_NAME>Mud Lake</FEATURE_NAME >
+  <FEATURE_CLASS>Lake</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3744743</LAT >
+  <LON>-88.0206195</LON >
+  <RESULT>Mud Lake ( Lake )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1570553</FEATURE_ID >
+  <FEATURE_NAME>Norwegian Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4008353</LAT >
+  <LON>-87.8853666</LON >
+  <RESULT>Norwegian Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1570571</FEATURE_ID >
+  <FEATURE_NAME>Notre Dame of the Lake School (historical)</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2541732</LAT >
+  <LON>-87.9153656</LON >
+  <RESULT>Notre Dame of the Lake School (historical) ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1570786</FEATURE_ID >
+  <FEATURE_NAME>Old Settlers Rest Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2744502</LAT >
+  <LON>-87.9275883</LON >
+  <RESULT>Old Settlers Rest Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1571364</FEATURE_ID >
+  <FEATURE_NAME>Pigeon Creek</FEATURE_NAME >
+  <FEATURE_CLASS>Stream</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2305625</LAT >
+  <LON>-87.9828668</LON >
+  <RESULT>Pigeon Creek ( Stream )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1571564</FEATURE_ID >
+  <FEATURE_NAME>Pit Lake</FEATURE_NAME >
+  <FEATURE_CLASS>Lake</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2570035</LAT >
+  <LON>-87.9420046</LON >
+  <RESULT>Pit Lake ( Lake )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1571662</FEATURE_ID >
+  <FEATURE_NAME>Pleasant Valley School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3505588</LAT >
+  <LON>-87.9989795</LON >
+  <RESULT>Pleasant Valley School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1571797</FEATURE_ID >
+  <FEATURE_NAME>Port Washington</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3872247</LAT >
+  <LON>-87.875644</LON >
+  <RESULT>Port Washington ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1572920</FEATURE_ID >
+  <FEATURE_NAME>Saint Finbars Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4366672</LAT >
+  <LON>-88.0009249</LON >
+  <RESULT>Saint Finbars Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1572921</FEATURE_ID >
+  <FEATURE_NAME>Saint Finbars School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4402782</LAT >
+  <LON>-88.0003694</LON >
+  <RESULT>Saint Finbars School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1572927</FEATURE_ID >
+  <FEATURE_NAME>Saint Francis Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2786164</LAT >
+  <LON>-88.0087011</LON >
+  <RESULT>Saint Francis Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1573039</FEATURE_ID >
+  <FEATURE_NAME>Saint Johns Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4616664</LAT >
+  <LON>-88.0006475</LON >
+  <RESULT>Saint Johns Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1573082</FEATURE_ID >
+  <FEATURE_NAME>Saint Johns Evangelical Lutheran Church</FEATURE_NAME >
+  <FEATURE_CLASS>Church</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2219519</LAT >
+  <LON>-87.9278655</LON >
+  <RESULT>Saint Johns Evangelical Lutheran Church ( Church )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1573181</FEATURE_ID >
+  <FEATURE_NAME>Saint Joseph Parish School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3195774</LAT >
+  <LON>-87.9462425</LON >
+  <RESULT>Saint Joseph Parish School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1573281</FEATURE_ID >
+  <FEATURE_NAME>Saint Marys Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4080574</LAT >
+  <LON>-87.8789777</LON >
+  <RESULT>Saint Marys Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1573428</FEATURE_ID >
+  <FEATURE_NAME>Saint Paul Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4783326</LAT >
+  <LON>-87.9909252</LON >
+  <RESULT>Saint Paul Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1573439</FEATURE_ID >
+  <FEATURE_NAME>Saint Paul Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3194487</LAT >
+  <LON>-87.9623117</LON >
+  <RESULT>Saint Paul Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1573558</FEATURE_ID >
+  <FEATURE_NAME>Saint Rose Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4791659</LAT >
+  <LON>-87.9909252</LON >
+  <RESULT>Saint Rose Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1573733</FEATURE_ID >
+  <FEATURE_NAME>Sauk Creek</FEATURE_NAME >
+  <FEATURE_CLASS>Stream</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3866692</LAT >
+  <LON>-87.8689772</LON >
+  <RESULT>Sauk Creek ( Stream )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1573739</FEATURE_ID >
+  <FEATURE_NAME>Saukville</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3816691</LAT >
+  <LON>-87.9406454</LON >
+  <RESULT>Saukville ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1574034</FEATURE_ID >
+  <FEATURE_NAME>Sherman School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2936158</LAT >
+  <LON>-88.0362018</LON >
+  <RESULT>Sherman School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1574327</FEATURE_ID >
+  <FEATURE_NAME>Smoky Hill School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4805548</LAT >
+  <LON>-87.980925</LON >
+  <RESULT>Smoky Hill School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1574660</FEATURE_ID >
+  <FEATURE_NAME>Spring Lake</FEATURE_NAME >
+  <FEATURE_CLASS>Lake</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.5410229</LAT >
+  <LON>-87.9628123</LON >
+  <RESULT>Spring Lake ( Lake )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1575004</FEATURE_ID >
+  <FEATURE_NAME>Sucker Creek</FEATURE_NAME >
+  <FEATURE_CLASS>Stream</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4225015</LAT >
+  <LON>-87.8381437</LON >
+  <RESULT>Sucker Creek ( Stream )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1575101</FEATURE_ID >
+  <FEATURE_NAME>Sunnyside School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2072298</LAT >
+  <LON>-88.0037003</LON >
+  <RESULT>Sunnyside School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1575351</FEATURE_ID >
+  <FEATURE_NAME>Thiensville</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2375067</LAT >
+  <LON>-87.9787001</LON >
+  <RESULT>Thiensville ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1575623</FEATURE_ID >
+  <FEATURE_NAME>Trinity Evangelical Lutheran Church</FEATURE_NAME >
+  <FEATURE_CLASS>Church</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.1997302</LAT >
+  <LON>-87.9678661</LON >
+  <RESULT>Trinity Evangelical Lutheran Church ( Church )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1575624</FEATURE_ID >
+  <FEATURE_NAME>Trinity Evangelical Lutheran Church</FEATURE_NAME >
+  <FEATURE_CLASS>Church</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2075076</LAT >
+  <LON>-88.0037003</LON >
+  <RESULT>Trinity Evangelical Lutheran Church ( Church )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1575848</FEATURE_ID >
+  <FEATURE_NAME>Ulao School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.32056</LAT >
+  <LON>-87.9064773</LON >
+  <RESULT>Ulao School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1575878</FEATURE_ID >
+  <FEATURE_NAME>Union Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.5383313</LAT >
+  <LON>-87.9706475</LON >
+  <RESULT>Union Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1576118</FEATURE_ID >
+  <FEATURE_NAME>Virmond Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2125079</LAT >
+  <LON>-87.8998091</LON >
+  <RESULT>Virmond Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1576280</FEATURE_ID >
+  <FEATURE_NAME>Washington School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3572256</LAT >
+  <LON>-87.8867551</LON >
+  <RESULT>Washington School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1576300</FEATURE_ID >
+  <FEATURE_NAME>Waubedonia Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4683329</LAT >
+  <LON>-87.9678691</LON >
+  <RESULT>Waubedonia Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1576304</FEATURE_ID >
+  <FEATURE_NAME>Waubeka</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4749994</LAT >
+  <LON>-87.9903696</LON >
+  <RESULT>Waubeka ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1576305</FEATURE_ID >
+  <FEATURE_NAME>Waubeka Union Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.462222</LAT >
+  <LON>-87.9809248</LON >
+  <RESULT>Waubeka Union Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1576806</FEATURE_ID >
+  <FEATURE_NAME>Wilson Elementary School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.217234</LAT >
+  <LON>-87.990605</LON >
+  <RESULT>Wilson Elementary School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1577010</FEATURE_ID >
+  <FEATURE_NAME>Woodlawn Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3230597</LAT >
+  <LON>-87.9642563</LON >
+  <RESULT>Woodlawn Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1577188</FEATURE_ID >
+  <FEATURE_NAME>Zur Ruhe Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.300838</LAT >
+  <LON>-87.9839787</LON >
+  <RESULT>Zur Ruhe Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1577443</FEATURE_ID >
+  <FEATURE_NAME>South Pier Light</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3850026</LAT >
+  <LON>-87.8639771</LON >
+  <RESULT>South Pier Light ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1577444</FEATURE_ID >
+  <FEATURE_NAME>South Jetty Light</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3833359</LAT >
+  <LON>-87.8642549</LON >
+  <RESULT>South Jetty Light ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1577567</FEATURE_ID >
+  <FEATURE_NAME>Decker</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4705555</LAT >
+  <LON>-87.8625891</LON >
+  <RESULT>Decker ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1577577</FEATURE_ID >
+  <FEATURE_NAME>Druecker</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4400008</LAT >
+  <LON>-87.8712</LON >
+  <RESULT>Druecker ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1577866</FEATURE_ID >
+  <FEATURE_NAME>Ulao</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.32056</LAT >
+  <LON>-87.9164775</LON >
+  <RESULT>Ulao ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1578033</FEATURE_ID >
+  <FEATURE_NAME>Port Washington Yacht Club</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3913913</LAT >
+  <LON>-87.8659216</LON >
+  <RESULT>Port Washington Yacht Club ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1578034</FEATURE_ID >
+  <FEATURE_NAME>Ashenfelter Aerodrome</FEATURE_NAME >
+  <FEATURE_CLASS>Airport</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3486767</LAT >
+  <LON>-87.9944033</LON >
+  <RESULT>Ashenfelter Aerodrome ( Airport )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1578038</FEATURE_ID >
+  <FEATURE_NAME>WITI</FEATURE_NAME >
+  <FEATURE_CLASS>Tower</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.208619</LAT >
+  <LON>-87.9214763</LON >
+  <RESULT>WITI ( Tower )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1581105</FEATURE_ID >
+  <FEATURE_NAME>Ozaukee County</FEATURE_NAME >
+  <FEATURE_CLASS>Civil</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3833356</LAT >
+  <LON>-87.95009</LON >
+  <RESULT>Ozaukee County ( Civil )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1581913</FEATURE_ID >
+  <FEATURE_NAME>Covered Bridge Fields Airport</FEATURE_NAME >
+  <FEATURE_CLASS>Airport</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3231879</LAT >
+  <LON>-87.9991025</LON >
+  <RESULT>Covered Bridge Fields Airport ( Airport )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1581914</FEATURE_ID >
+  <FEATURE_NAME>SSS Aerodrome</FEATURE_NAME >
+  <FEATURE_CLASS>Airport</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2760584</LAT >
+  <LON>-87.9956797</LON >
+  <RESULT>SSS Aerodrome ( Airport )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1581993</FEATURE_ID >
+  <FEATURE_NAME>Ashenfelter Aerodrome</FEATURE_NAME >
+  <FEATURE_CLASS>Airport</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3488921</LAT >
+  <LON>-87.9942572</LON >
+  <RESULT>Ashenfelter Aerodrome ( Airport )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1582153</FEATURE_ID >
+  <FEATURE_NAME>Ozaukee Airport</FEATURE_NAME >
+  <FEATURE_CLASS>Airport</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.42139</LAT >
+  <LON>-87.88898</LON >
+  <RESULT>Ozaukee Airport ( Airport )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1582154</FEATURE_ID >
+  <FEATURE_NAME>Saint Marys Hospital Ozaukee Heliport</FEATURE_NAME >
+  <FEATURE_CLASS>Airport</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3963911</LAT >
+  <LON>-87.8764775</LON >
+  <RESULT>Saint Marys Hospital Ozaukee Heliport ( Airport )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1582155</FEATURE_ID >
+  <FEATURE_NAME>Flying S Ranch Airport</FEATURE_NAME >
+  <FEATURE_CLASS>Airport</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3631056</LAT >
+  <LON>-87.889143</LON >
+  <RESULT>Flying S Ranch Airport ( Airport )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1582234</FEATURE_ID >
+  <FEATURE_NAME>Hoffman Prop Inc Heliport</FEATURE_NAME >
+  <FEATURE_CLASS>Airport</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2663948</LAT >
+  <LON>-87.9659223</LON >
+  <RESULT>Hoffman Prop Inc Heliport ( Airport )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1582340</FEATURE_ID >
+  <FEATURE_NAME>WGLB-AM (Port Washington)</FEATURE_NAME >
+  <FEATURE_CLASS>Tower</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3863912</LAT >
+  <LON>-87.9195338</LON >
+  <RESULT>WGLB-AM (Port Washington) ( Tower )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1582442</FEATURE_ID >
+  <FEATURE_NAME>WGLB-FM (Port Washington)</FEATURE_NAME >
+  <FEATURE_CLASS>Tower</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3861135</LAT >
+  <LON>-87.9195338</LON >
+  <RESULT>WGLB-FM (Port Washington) ( Tower )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1582781</FEATURE_ID >
+  <FEATURE_NAME>Village of Belgium</FEATURE_NAME >
+  <FEATURE_CLASS>Civil</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.5005546</LAT >
+  <LON>-87.850367</LON >
+  <RESULT>Village of Belgium ( Civil )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1582782</FEATURE_ID >
+  <FEATURE_NAME>Town of Belgium</FEATURE_NAME >
+  <FEATURE_CLASS>Civil</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4941659</LAT >
+  <LON>-87.8589782</LON >
+  <RESULT>Town of Belgium ( Civil )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1582936</FEATURE_ID >
+  <FEATURE_NAME>City of Cedarburg</FEATURE_NAME >
+  <FEATURE_CLASS>Civil</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2966715</LAT >
+  <LON>-87.9884231</LON >
+  <RESULT>City of Cedarburg ( Civil )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1582937</FEATURE_ID >
+  <FEATURE_NAME>Town of Cedarburg</FEATURE_NAME >
+  <FEATURE_CLASS>Civil</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3247261</LAT >
+  <LON>-88.0162018</LON >
+  <RESULT>Town of Cedarburg ( Civil )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1583239</FEATURE_ID >
+  <FEATURE_NAME>Village of Fredonia</FEATURE_NAME >
+  <FEATURE_CLASS>Civil</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.468333</LAT >
+  <LON>-87.9517576</LON >
+  <RESULT>Village of Fredonia ( Civil )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1583240</FEATURE_ID >
+  <FEATURE_NAME>Town of Fredonia</FEATURE_NAME >
+  <FEATURE_CLASS>Civil</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4913878</LAT >
+  <LON>-87.9853697</LON >
+  <RESULT>Town of Fredonia ( Civil )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1583293</FEATURE_ID >
+  <FEATURE_NAME>Village of Grafton</FEATURE_NAME >
+  <FEATURE_CLASS>Civil</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3186154</LAT >
+  <LON>-87.9548116</LON >
+  <RESULT>Village of Grafton ( Civil )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1583294</FEATURE_ID >
+  <FEATURE_NAME>Town of Grafton</FEATURE_NAME >
+  <FEATURE_CLASS>Civil</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3255598</LAT >
+  <LON>-87.9231444</LON >
+  <RESULT>Town of Grafton ( Civil )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1583699</FEATURE_ID >
+  <FEATURE_NAME>City of Mequon</FEATURE_NAME >
+  <FEATURE_CLASS>Civil</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.23584</LAT >
+  <LON>-87.9892559</LON >
+  <RESULT>City of Mequon ( Civil )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1583960</FEATURE_ID >
+  <FEATURE_NAME>City of Port Washington</FEATURE_NAME >
+  <FEATURE_CLASS>Civil</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3936134</LAT >
+  <LON>-87.8800886</LON >
+  <RESULT>City of Port Washington ( Civil )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1583961</FEATURE_ID >
+  <FEATURE_NAME>Town of Port Washington</FEATURE_NAME >
+  <FEATURE_CLASS>Civil</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4188904</LAT >
+  <LON>-87.8731443</LON >
+  <RESULT>Town of Port Washington ( Civil )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1584103</FEATURE_ID >
+  <FEATURE_NAME>Village of Saukville</FEATURE_NAME >
+  <FEATURE_CLASS>Civil</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3838912</LAT >
+  <LON>-87.9414787</LON >
+  <RESULT>Village of Saukville ( Civil )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1584104</FEATURE_ID >
+  <FEATURE_NAME>Town of Saukville</FEATURE_NAME >
+  <FEATURE_CLASS>Civil</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4086125</LAT >
+  <LON>-87.9881466</LON >
+  <RESULT>Town of Saukville ( Civil )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1584273</FEATURE_ID >
+  <FEATURE_NAME>Village of Thiensville</FEATURE_NAME >
+  <FEATURE_CLASS>Civil</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2366735</LAT >
+  <LON>-87.980089</LON >
+  <RESULT>Village of Thiensville ( Civil )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1791982</FEATURE_ID >
+  <FEATURE_NAME>Cedarburg Woolen Mill Dam</FEATURE_NAME >
+  <FEATURE_CLASS>Dam</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3016714</LAT >
+  <LON>-87.9884232</LON >
+  <RESULT>Cedarburg Woolen Mill Dam ( Dam )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1791983</FEATURE_ID >
+  <FEATURE_NAME>119 Reservoir</FEATURE_NAME >
+  <FEATURE_CLASS>Reservoir</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3016714</LAT >
+  <LON>-87.9884232</LON >
+  <RESULT>119 Reservoir ( Reservoir )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1791984</FEATURE_ID >
+  <FEATURE_NAME>Ruck Dam</FEATURE_NAME >
+  <FEATURE_CLASS>Dam</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2966716</LAT >
+  <LON>-87.9734228</LON >
+  <RESULT>Ruck Dam ( Dam )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1791985</FEATURE_ID >
+  <FEATURE_NAME>120 Reservoir</FEATURE_NAME >
+  <FEATURE_CLASS>Reservoir</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2966716</LAT >
+  <LON>-87.9734228</LON >
+  <RESULT>120 Reservoir ( Reservoir )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1791986</FEATURE_ID >
+  <FEATURE_NAME>Grafton Dam</FEATURE_NAME >
+  <FEATURE_CLASS>Dam</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3183376</LAT >
+  <LON>-87.9484225</LON >
+  <RESULT>Grafton Dam ( Dam )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1791987</FEATURE_ID >
+  <FEATURE_NAME>451 Reservoir</FEATURE_NAME >
+  <FEATURE_CLASS>Reservoir</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3183376</LAT >
+  <LON>-87.9484225</LON >
+  <RESULT>451 Reservoir ( Reservoir )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1792200</FEATURE_ID >
+  <FEATURE_NAME>Columbia Mills Dam</FEATURE_NAME >
+  <FEATURE_CLASS>Dam</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3000048</LAT >
+  <LON>-87.9750896</LON >
+  <RESULT>Columbia Mills Dam ( Dam )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1792201</FEATURE_ID >
+  <FEATURE_NAME>Cedarburg Pond 121</FEATURE_NAME >
+  <FEATURE_CLASS>Reservoir</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2981845</LAT >
+  <LON>-87.9794474</LON >
+  <RESULT>Cedarburg Pond 121 ( Reservoir )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1792202</FEATURE_ID >
+  <FEATURE_NAME>Waubeka Dam</FEATURE_NAME >
+  <FEATURE_CLASS>Dam</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4716662</LAT >
+  <LON>-87.9917585</LON >
+  <RESULT>Waubeka Dam ( Dam )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1792203</FEATURE_ID >
+  <FEATURE_NAME>Waubeka Millpond 412</FEATURE_NAME >
+  <FEATURE_CLASS>Reservoir</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4716662</LAT >
+  <LON>-87.9917585</LON >
+  <RESULT>Waubeka Millpond 412 ( Reservoir )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1792499</FEATURE_ID >
+  <FEATURE_NAME>G E Harris G8925 Dam</FEATURE_NAME >
+  <FEATURE_CLASS>Dam</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3600029</LAT >
+  <LON>-87.9784236</LON >
+  <RESULT>G E Harris G8925 Dam ( Dam )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1792500</FEATURE_ID >
+  <FEATURE_NAME>0.45 Reservoir</FEATURE_NAME >
+  <FEATURE_CLASS>Reservoir</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3600029</LAT >
+  <LON>-87.9784236</LON >
+  <RESULT>0.45 Reservoir ( Reservoir )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1792649</FEATURE_ID >
+  <FEATURE_NAME>Thiensville 2WP535 Dam</FEATURE_NAME >
+  <FEATURE_CLASS>Dam</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.230007</LAT >
+  <LON>-87.9800889</LON >
+  <RESULT>Thiensville 2WP535 Dam ( Dam )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1792650</FEATURE_ID >
+  <FEATURE_NAME>Thiensville Millpond 594</FEATURE_NAME >
+  <FEATURE_CLASS>Reservoir</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.230007</LAT >
+  <LON>-87.9800889</LON >
+  <RESULT>Thiensville Millpond 594 ( Reservoir )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833583</FEATURE_ID >
+  <FEATURE_NAME>Calvary Lutheran School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2256779</LAT >
+  <LON>-87.9857054</LON >
+  <RESULT>Calvary Lutheran School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833584</FEATURE_ID >
+  <FEATURE_NAME>Cedarburg High School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2976461</LAT >
+  <LON>-87.9966866</LON >
+  <RESULT>Cedarburg High School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833585</FEATURE_ID >
+  <FEATURE_NAME>Cedarburg Post Office</FEATURE_NAME >
+  <FEATURE_CLASS>Post Office</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2947271</LAT >
+  <LON>-87.9881454</LON >
+  <RESULT>Cedarburg Post Office ( Post Office )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833586</FEATURE_ID >
+  <FEATURE_NAME>Donges Bay Elementary School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2059719</LAT >
+  <LON>-87.9400654</LON >
+  <RESULT>Donges Bay Elementary School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833587</FEATURE_ID >
+  <FEATURE_NAME>First Congregational Church</FEATURE_NAME >
+  <FEATURE_CLASS>Church</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3886135</LAT >
+  <LON>-87.8759218</LON >
+  <RESULT>First Congregational Church ( Church )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833588</FEATURE_ID >
+  <FEATURE_NAME>Friedens Evangelical Church</FEATURE_NAME >
+  <FEATURE_CLASS>Church</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3922245</LAT >
+  <LON>-87.8720328</LON >
+  <RESULT>Friedens Evangelical Church ( Church )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833589</FEATURE_ID >
+  <FEATURE_NAME>Grafton Elementary School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3212788</LAT >
+  <LON>-87.9422366</LON >
+  <RESULT>Grafton Elementary School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833590</FEATURE_ID >
+  <FEATURE_NAME>Grafton High School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3212646</LAT >
+  <LON>-87.9397358</LON >
+  <RESULT>Grafton High School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833591</FEATURE_ID >
+  <FEATURE_NAME>Grand Avenue Evangelical United Brethren Church (historical)</FEATURE_NAME >
+  <FEATURE_CLASS>Church</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3869469</LAT >
+  <LON>-87.8795329</LON >
+  <RESULT>Grand Avenue Evangelical United Brethren Church (historical) ( Church )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833592</FEATURE_ID >
+  <FEATURE_NAME>Hill Public School (historical)</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3875024</LAT >
+  <LON>-87.8853665</LON >
+  <RESULT>Hill Public School (historical) ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833593</FEATURE_ID >
+  <FEATURE_NAME>Hillside School (historical)</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.5272202</LAT >
+  <LON>-88.0203706</LON >
+  <RESULT>Hillside School (historical) ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833594</FEATURE_ID >
+  <FEATURE_NAME>Homestead High School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2235849</LAT >
+  <LON>-87.9709117</LON >
+  <RESULT>Homestead High School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833595</FEATURE_ID >
+  <FEATURE_NAME>John Long Middle School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3316373</LAT >
+  <LON>-87.9572344</LON >
+  <RESULT>John Long Middle School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833596</FEATURE_ID >
+  <FEATURE_NAME>Kennedy Elementary School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3134294</LAT >
+  <LON>-87.9533318</LON >
+  <RESULT>Kennedy Elementary School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833597</FEATURE_ID >
+  <FEATURE_NAME>Lake Shore Middle School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2189453</LAT >
+  <LON>-87.9429864</LON >
+  <RESULT>Lake Shore Middle School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833598</FEATURE_ID >
+  <FEATURE_NAME>Lincoln Elementary School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4040826</LAT >
+  <LON>-87.8759635</LON >
+  <RESULT>Lincoln Elementary School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833599</FEATURE_ID >
+  <FEATURE_NAME>Oriole Lane Elementary School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2526307</LAT >
+  <LON>-87.9320158</LON >
+  <RESULT>Oriole Lane Elementary School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833600</FEATURE_ID >
+  <FEATURE_NAME>Ozaukee County Courthouse</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3883358</LAT >
+  <LON>-87.8711995</LON >
+  <RESULT>Ozaukee County Courthouse ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833601</FEATURE_ID >
+  <FEATURE_NAME>Ozaukee County Jail</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3883358</LAT >
+  <LON>-87.8720328</LON >
+  <RESULT>Ozaukee County Jail ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833602</FEATURE_ID >
+  <FEATURE_NAME>Ozaukee High School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4763702</LAT >
+  <LON>-87.943165</LON >
+  <RESULT>Ozaukee High School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833603</FEATURE_ID >
+  <FEATURE_NAME>Port Washington High School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3902182</LAT >
+  <LON>-87.8778044</LON >
+  <RESULT>Port Washington High School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833604</FEATURE_ID >
+  <FEATURE_NAME>Port Washington Post Office</FEATURE_NAME >
+  <FEATURE_CLASS>Post Office</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3886136</LAT >
+  <LON>-87.870644</LON >
+  <RESULT>Port Washington Post Office ( Post Office )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833605</FEATURE_ID >
+  <FEATURE_NAME>Public School Number 1 (historical)</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3900024</LAT >
+  <LON>-87.8717551</LON >
+  <RESULT>Public School Number 1 (historical) ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833606</FEATURE_ID >
+  <FEATURE_NAME>Saint Alphonsus Hospital</FEATURE_NAME >
+  <FEATURE_CLASS>Hospital</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3975022</LAT >
+  <LON>-87.8761997</LON >
+  <RESULT>Saint Alphonsus Hospital ( Hospital )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833607</FEATURE_ID >
+  <FEATURE_NAME>Saint Johns Lutheran Church</FEATURE_NAME >
+  <FEATURE_CLASS>Church</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.384447</LAT >
+  <LON>-87.8759217</LON >
+  <RESULT>Saint Johns Lutheran Church ( Church )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833608</FEATURE_ID >
+  <FEATURE_NAME>Saint Marys Roman Catholic Church</FEATURE_NAME >
+  <FEATURE_CLASS>Church</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3919468</LAT >
+  <LON>-87.8695328</LON >
+  <RESULT>Saint Marys Roman Catholic Church ( Church )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833609</FEATURE_ID >
+  <FEATURE_NAME>Saint Marys School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3922245</LAT >
+  <LON>-87.8686995</LON >
+  <RESULT>Saint Marys School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833610</FEATURE_ID >
+  <FEATURE_NAME>Saint Paul Lutheran School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.319375</LAT >
+  <LON>-87.9574118</LON >
+  <RESULT>Saint Paul Lutheran School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833611</FEATURE_ID >
+  <FEATURE_NAME>Saints Cecilia and James Catholic School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2313958</LAT >
+  <LON>-87.9870335</LON >
+  <RESULT>Saints Cecilia and James Catholic School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833612</FEATURE_ID >
+  <FEATURE_NAME>Sauk Trail Beach</FEATURE_NAME >
+  <FEATURE_CLASS>Populated Place</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.5286098</LAT >
+  <LON>-87.7945324</LON >
+  <RESULT>Sauk Trail Beach ( Populated Place )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833613</FEATURE_ID >
+  <FEATURE_NAME>Saukville Elementary School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3847932</LAT >
+  <LON>-87.9400464</LON >
+  <RESULT>Saukville Elementary School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833614</FEATURE_ID >
+  <FEATURE_NAME>Steffen Middle School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2172403</LAT >
+  <LON>-87.9929923</LON >
+  <RESULT>Steffen Middle School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833615</FEATURE_ID >
+  <FEATURE_NAME>Thomas Jefferson Middle School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4040131</LAT >
+  <LON>-87.8788695</LON >
+  <RESULT>Thomas Jefferson Middle School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833616</FEATURE_ID >
+  <FEATURE_NAME>Trinity Lutheran School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2352345</LAT >
+  <LON>-88.0446266</LON >
+  <RESULT>Trinity Lutheran School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833617</FEATURE_ID >
+  <FEATURE_NAME>Union Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3841693</LAT >
+  <LON>-87.8806441</LON >
+  <RESULT>Union Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833618</FEATURE_ID >
+  <FEATURE_NAME>W J Niederkorn Public Library</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3877803</LAT >
+  <LON>-87.8753662</LON >
+  <RESULT>W J Niederkorn Public Library ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833619</FEATURE_ID >
+  <FEATURE_NAME>Webster Middle School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2978008</LAT >
+  <LON>-88.0022532</LON >
+  <RESULT>Webster Middle School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1833620</FEATURE_ID >
+  <FEATURE_NAME>Woodview Elementary School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3328664</LAT >
+  <LON>-87.9585886</LON >
+  <RESULT>Woodview Elementary School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1845409</FEATURE_ID >
+  <FEATURE_NAME>Calvary Evangelical Lutheran Church</FEATURE_NAME >
+  <FEATURE_CLASS>Church</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2258404</LAT >
+  <LON>-87.9848112</LON >
+  <RESULT>Calvary Evangelical Lutheran Church ( Church )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1845410</FEATURE_ID >
+  <FEATURE_NAME>Katherine Kearney Carpenter Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.1986194</LAT >
+  <LON>-87.9206428</LON >
+  <RESULT>Katherine Kearney Carpenter Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1845411</FEATURE_ID >
+  <FEATURE_NAME>Mequon Community Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2241739</LAT >
+  <LON>-87.9848112</LON >
+  <RESULT>Mequon Community Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1845412</FEATURE_ID >
+  <FEATURE_NAME>North Shore Country Club</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2150076</LAT >
+  <LON>-87.9484213</LON >
+  <RESULT>North Shore Country Club ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1845413</FEATURE_ID >
+  <FEATURE_NAME>Ozaukee Country Club</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2177852</LAT >
+  <LON>-87.9692552</LON >
+  <RESULT>Ozaukee Country Club ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>1845414</FEATURE_ID >
+  <FEATURE_NAME>Trinity Lutheran Church</FEATURE_NAME >
+  <FEATURE_CLASS>Church</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2352843</LAT >
+  <LON>-88.0437013</LON >
+  <RESULT>Trinity Lutheran Church ( Church )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2093523</FEATURE_ID >
+  <FEATURE_NAME>Cedarburg Beech Woods State Natural Area</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3847222</LAT >
+  <LON>-88.0269444</LON >
+  <RESULT>Cedarburg Beech Woods State Natural Area ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2093524</FEATURE_ID >
+  <FEATURE_NAME>Fairy Chasm State Natural Area</FEATURE_NAME >
+  <FEATURE_CLASS>Reserve</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.1980556</LAT >
+  <LON>-87.8991667</LON >
+  <RESULT>Fairy Chasm State Natural Area ( Reserve )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2093525</FEATURE_ID >
+  <FEATURE_NAME>Huiras Lake State Natural Area</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.5194444</LAT >
+  <LON>-87.9833333</LON >
+  <RESULT>Huiras Lake State Natural Area ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2093526</FEATURE_ID >
+  <FEATURE_NAME>Kurtz Woods State Natural Area</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3616667</LAT >
+  <LON>-87.9541667</LON >
+  <RESULT>Kurtz Woods State Natural Area ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2093527</FEATURE_ID >
+  <FEATURE_NAME>Riveredge Creek And Ephemeral Pond State Nature Preserve</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4352778</LAT >
+  <LON>-88.0188889</LON >
+  <RESULT>Riveredge Creek And Ephemeral Pond State Nature Preserve ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2093528</FEATURE_ID >
+  <FEATURE_NAME>Sapa Spruce Bog State Natural Area</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3941667</LAT >
+  <LON>-88.0277778</LON >
+  <RESULT>Sapa Spruce Bog State Natural Area ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2093536</FEATURE_ID >
+  <FEATURE_NAME>Cedar Creek Stock Farm (historical)</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2916667</LAT >
+  <LON>-87.9625</LON >
+  <RESULT>Cedar Creek Stock Farm (historical) ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2093537</FEATURE_ID >
+  <FEATURE_NAME>River Bend Stock Farm (historical)</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.29</LAT >
+  <LON>-87.9472222</LON >
+  <RESULT>River Bend Stock Farm (historical) ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2093538</FEATURE_ID >
+  <FEATURE_NAME>Dudley Farm</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3408333</LAT >
+  <LON>-87.9211111</LON >
+  <RESULT>Dudley Farm ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2093539</FEATURE_ID >
+  <FEATURE_NAME>Evergreen Stock Farm</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3411111</LAT >
+  <LON>-87.9497222</LON >
+  <RESULT>Evergreen Stock Farm ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2093540</FEATURE_ID >
+  <FEATURE_NAME>Oakland Stock Farm</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3611111</LAT >
+  <LON>-87.9277778</LON >
+  <RESULT>Oakland Stock Farm ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2093541</FEATURE_ID >
+  <FEATURE_NAME>Orchard Hill Stock Farm</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3433333</LAT >
+  <LON>-87.9491667</LON >
+  <RESULT>Orchard Hill Stock Farm ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2093542</FEATURE_ID >
+  <FEATURE_NAME>Pleasant Home Farm (historical)</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3666667</LAT >
+  <LON>-87.9547222</LON >
+  <RESULT>Pleasant Home Farm (historical) ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119315</FEATURE_ID >
+  <FEATURE_NAME>Lilly Lane Nature Preserve</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.1975</LAT >
+  <LON>-87.9913889</LON >
+  <RESULT>Lilly Lane Nature Preserve ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119316</FEATURE_ID >
+  <FEATURE_NAME>River Forest Nature Preserve</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2377778</LAT >
+  <LON>-87.9375</LON >
+  <RESULT>River Forest Nature Preserve ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119317</FEATURE_ID >
+  <FEATURE_NAME>Shoreland Nature Preserve</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2427778</LAT >
+  <LON>-87.9372222</LON >
+  <RESULT>Shoreland Nature Preserve ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119318</FEATURE_ID >
+  <FEATURE_NAME>Willow Bay Nature Preserve</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2488889</LAT >
+  <LON>-87.9358333</LON >
+  <RESULT>Willow Bay Nature Preserve ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119336</FEATURE_ID >
+  <FEATURE_NAME>Grasslyn Nature Preserve</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.1983333</LAT >
+  <LON>-87.9363889</LON >
+  <RESULT>Grasslyn Nature Preserve ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119337</FEATURE_ID >
+  <FEATURE_NAME>Mequan Pavilions Shopping Center</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2191667</LAT >
+  <LON>-87.925</LON >
+  <RESULT>Mequan Pavilions Shopping Center ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119338</FEATURE_ID >
+  <FEATURE_NAME>Brooks Stevens Automotive Museum</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2052778</LAT >
+  <LON>-87.9252778</LON >
+  <RESULT>Brooks Stevens Automotive Museum ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119339</FEATURE_ID >
+  <FEATURE_NAME>Lac Du Cours</FEATURE_NAME >
+  <FEATURE_CLASS>Lake</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2011111</LAT >
+  <LON>-87.9602778</LON >
+  <RESULT>Lac Du Cours ( Lake )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119340</FEATURE_ID >
+  <FEATURE_NAME>River Barn Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.1966667</LAT >
+  <LON>-87.9638889</LON >
+  <RESULT>River Barn Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119341</FEATURE_ID >
+  <FEATURE_NAME>Trinity Lutheran Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.1994444</LAT >
+  <LON>-87.9675</LON >
+  <RESULT>Trinity Lutheran Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119342</FEATURE_ID >
+  <FEATURE_NAME>Settlers Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2238889</LAT >
+  <LON>-87.9833333</LON >
+  <RESULT>Settlers Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119343</FEATURE_ID >
+  <FEATURE_NAME>Mequan City Hall</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2236111</LAT >
+  <LON>-87.9844444</LON >
+  <RESULT>Mequan City Hall ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119344</FEATURE_ID >
+  <FEATURE_NAME>Thiensville City Hall</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2325</LAT >
+  <LON>-87.98</LON >
+  <RESULT>Thiensville City Hall ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119345</FEATURE_ID >
+  <FEATURE_NAME>Thiensville Village Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2322222</LAT >
+  <LON>-87.9766667</LON >
+  <RESULT>Thiensville Village Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119346</FEATURE_ID >
+  <FEATURE_NAME>Scout Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2366667</LAT >
+  <LON>-87.9491667</LON >
+  <RESULT>Scout Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119347</FEATURE_ID >
+  <FEATURE_NAME>Riverview Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2333333</LAT >
+  <LON>-87.9613889</LON >
+  <RESULT>Riverview Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119348</FEATURE_ID >
+  <FEATURE_NAME>Village Grove Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2363889</LAT >
+  <LON>-87.9541667</LON >
+  <RESULT>Village Grove Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119349</FEATURE_ID >
+  <FEATURE_NAME>Mequan Country Club</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2444444</LAT >
+  <LON>-87.9530556</LON >
+  <RESULT>Mequan Country Club ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119475</FEATURE_ID >
+  <FEATURE_NAME>Milwaukee Area Technical College-North Campus</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2483333</LAT >
+  <LON>-87.9752778</LON >
+  <RESULT>Milwaukee Area Technical College-North Campus ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119476</FEATURE_ID >
+  <FEATURE_NAME>Highland Woods</FEATURE_NAME >
+  <FEATURE_CLASS>Woods</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2477778</LAT >
+  <LON>-87.9858333</LON >
+  <RESULT>Highland Woods ( Woods )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119477</FEATURE_ID >
+  <FEATURE_NAME>Concordia University Wisconsin</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2542165</LAT >
+  <LON>-87.9166283</LON >
+  <RESULT>Concordia University Wisconsin ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119478</FEATURE_ID >
+  <FEATURE_NAME>Columbia Saint Marys Hospital Ozaukee</FEATURE_NAME >
+  <FEATURE_CLASS>Hospital</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.256338</LAT >
+  <LON>-87.9262189</LON >
+  <RESULT>Columbia Saint Marys Hospital Ozaukee ( Hospital )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119479</FEATURE_ID >
+  <FEATURE_NAME>Missing Links Golf Course</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2530556</LAT >
+  <LON>-87.9219444</LON >
+  <RESULT>Missing Links Golf Course ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119480</FEATURE_ID >
+  <FEATURE_NAME>Mequon Rotary Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2536111</LAT >
+  <LON>-87.9588889</LON >
+  <RESULT>Mequon Rotary Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119481</FEATURE_ID >
+  <FEATURE_NAME>Pukaite Woods</FEATURE_NAME >
+  <FEATURE_CLASS>Woods</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2575</LAT >
+  <LON>-87.9586111</LON >
+  <RESULT>Pukaite Woods ( Woods )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119482</FEATURE_ID >
+  <FEATURE_NAME>Mee-Kwon Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2552778</LAT >
+  <LON>-87.9858333</LON >
+  <RESULT>Mee-Kwon Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119483</FEATURE_ID >
+  <FEATURE_NAME>Mee-Kwon Park Golf Course</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2622222</LAT >
+  <LON>-87.9838889</LON >
+  <RESULT>Mee-Kwon Park Golf Course ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119484</FEATURE_ID >
+  <FEATURE_NAME>Hamilton Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2836111</LAT >
+  <LON>-87.9722222</LON >
+  <RESULT>Hamilton Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119485</FEATURE_ID >
+  <FEATURE_NAME>Immanuel Cemetery</FEATURE_NAME >
+  <FEATURE_CLASS>Cemetery</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2875</LAT >
+  <LON>-87.9761111</LON >
+  <RESULT>Immanuel Cemetery ( Cemetery )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119486</FEATURE_ID >
+  <FEATURE_NAME>Herman A Zeunert Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2872222</LAT >
+  <LON>-87.9797222</LON >
+  <RESULT>Herman A Zeunert Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119487</FEATURE_ID >
+  <FEATURE_NAME>Legion Memorial Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2936111</LAT >
+  <LON>-87.9827778</LON >
+  <RESULT>Legion Memorial Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119488</FEATURE_ID >
+  <FEATURE_NAME>Cedar Creek Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2955556</LAT >
+  <LON>-87.9833333</LON >
+  <RESULT>Cedar Creek Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119489</FEATURE_ID >
+  <FEATURE_NAME>Adlai Horn Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2972222</LAT >
+  <LON>-87.9822222</LON >
+  <RESULT>Adlai Horn Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119490</FEATURE_ID >
+  <FEATURE_NAME>Cedarburg Town Hall</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3216667</LAT >
+  <LON>-88.0061111</LON >
+  <RESULT>Cedarburg Town Hall ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119491</FEATURE_ID >
+  <FEATURE_NAME>Centennial Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3063889</LAT >
+  <LON>-87.9972222</LON >
+  <RESULT>Centennial Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119492</FEATURE_ID >
+  <FEATURE_NAME>Willowbrooke Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.31</LAT >
+  <LON>-87.9894444</LON >
+  <RESULT>Willowbrooke Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119493</FEATURE_ID >
+  <FEATURE_NAME>Ozaukee County Fairgrounds</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3066667</LAT >
+  <LON>-87.9913889</LON >
+  <RESULT>Ozaukee County Fairgrounds ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119494</FEATURE_ID >
+  <FEATURE_NAME>Firemen&apos;s Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3041667</LAT >
+  <LON>-87.9905556</LON >
+  <RESULT>Firemen&apos;s Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119495</FEATURE_ID >
+  <FEATURE_NAME>Ozaukee Arts Center</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3013889</LAT >
+  <LON>-87.9872222</LON >
+  <RESULT>Ozaukee Arts Center ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119496</FEATURE_ID >
+  <FEATURE_NAME>Woodland Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3038889</LAT >
+  <LON>-87.9825</LON >
+  <RESULT>Woodland Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119497</FEATURE_ID >
+  <FEATURE_NAME>Manchester Plaza Shopping Center</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3072222</LAT >
+  <LON>-87.9630556</LON >
+  <RESULT>Manchester Plaza Shopping Center ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119498</FEATURE_ID >
+  <FEATURE_NAME>Grafton Plaza Shopping Center</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3088889</LAT >
+  <LON>-87.9591667</LON >
+  <RESULT>Grafton Plaza Shopping Center ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119499</FEATURE_ID >
+  <FEATURE_NAME>Lime Kiln Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3052778</LAT >
+  <LON>-87.955</LON >
+  <RESULT>Lime Kiln Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119500</FEATURE_ID >
+  <FEATURE_NAME>Wildwood Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3169444</LAT >
+  <LON>-87.9658333</LON >
+  <RESULT>Wildwood Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119501</FEATURE_ID >
+  <FEATURE_NAME>Grafton Town Hall</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3194444</LAT >
+  <LON>-87.9522222</LON >
+  <RESULT>Grafton Town Hall ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119502</FEATURE_ID >
+  <FEATURE_NAME>Veterans Memorial Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3219444</LAT >
+  <LON>-87.95</LON >
+  <RESULT>Veterans Memorial Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119503</FEATURE_ID >
+  <FEATURE_NAME>River Island Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3261111</LAT >
+  <LON>-87.945</LON >
+  <RESULT>River Island Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119504</FEATURE_ID >
+  <FEATURE_NAME>Grafton Retail Center Shopping Center</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3208333</LAT >
+  <LON>-87.9261111</LON >
+  <RESULT>Grafton Retail Center Shopping Center ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119505</FEATURE_ID >
+  <FEATURE_NAME>Country Club of Wisconsin</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3527778</LAT >
+  <LON>-87.9308333</LON >
+  <RESULT>Country Club of Wisconsin ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119506</FEATURE_ID >
+  <FEATURE_NAME>Meadowbrook Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3322222</LAT >
+  <LON>-87.9475</LON >
+  <RESULT>Meadowbrook Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2119507</FEATURE_ID >
+  <FEATURE_NAME>Covered Bridge Park</FEATURE_NAME >
+  <FEATURE_CLASS>Park</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3386111</LAT >
+  <LON>-88.0038889</LON >
+  <RESULT>Covered Bridge Park ( Park )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2351040</FEATURE_ID >
+  <FEATURE_NAME>Interchange 85</FEATURE_NAME >
+  <FEATURE_CLASS>Crossing</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2211111</LAT >
+  <LON>-87.9216667</LON >
+  <RESULT>Interchange 85 ( Crossing )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2351041</FEATURE_ID >
+  <FEATURE_NAME>Interchange 89</FEATURE_NAME >
+  <FEATURE_CLASS>Crossing</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.28</LAT >
+  <LON>-87.9213889</LON >
+  <RESULT>Interchange 89 ( Crossing )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2351426</FEATURE_ID >
+  <FEATURE_NAME>Interchange 92</FEATURE_NAME >
+  <FEATURE_CLASS>Crossing</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3202778</LAT >
+  <LON>-87.9194444</LON >
+  <RESULT>Interchange 92 ( Crossing )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2351427</FEATURE_ID >
+  <FEATURE_NAME>Interchange 93</FEATURE_NAME >
+  <FEATURE_CLASS>Crossing</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3402778</LAT >
+  <LON>-87.9247222</LON >
+  <RESULT>Interchange 93 ( Crossing )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2351428</FEATURE_ID >
+  <FEATURE_NAME>Interchange 96</FEATURE_NAME >
+  <FEATURE_CLASS>Crossing</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.385</LAT >
+  <LON>-87.9280556</LON >
+  <RESULT>Interchange 96 ( Crossing )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2351429</FEATURE_ID >
+  <FEATURE_NAME>Interchange 97</FEATURE_NAME >
+  <FEATURE_CLASS>Crossing</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4013889</LAT >
+  <LON>-87.9280556</LON >
+  <RESULT>Interchange 97 ( Crossing )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2351430</FEATURE_ID >
+  <FEATURE_NAME>Interchange 100</FEATURE_NAME >
+  <FEATURE_CLASS>Crossing</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4116667</LAT >
+  <LON>-87.8713889</LON >
+  <RESULT>Interchange 100 ( Crossing )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2351431</FEATURE_ID >
+  <FEATURE_NAME>Interchange 107</FEATURE_NAME >
+  <FEATURE_CLASS>Crossing</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4994444</LAT >
+  <LON>-87.8302778</LON >
+  <RESULT>Interchange 107 ( Crossing )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2354989</FEATURE_ID >
+  <FEATURE_NAME>Cedarburg Wastewater Treatment Facility</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2886111</LAT >
+  <LON>-87.9752778</LON >
+  <RESULT>Cedarburg Wastewater Treatment Facility ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2358190</FEATURE_ID >
+  <FEATURE_NAME>Belgium Sewage Treatment Plant</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.5133333</LAT >
+  <LON>-87.8541667</LON >
+  <RESULT>Belgium Sewage Treatment Plant ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2516915</FEATURE_ID >
+  <FEATURE_NAME>Barthel Fruit Farm</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2419444</LAT >
+  <LON>-88.0288889</LON >
+  <RESULT>Barthel Fruit Farm ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2516926</FEATURE_ID >
+  <FEATURE_NAME>Niemann Orchards</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2819444</LAT >
+  <LON>-88.0344444</LON >
+  <RESULT>Niemann Orchards ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2558888</FEATURE_ID >
+  <FEATURE_NAME>Horn Lake</FEATURE_NAME >
+  <FEATURE_CLASS>Lake</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.404112</LAT >
+  <LON>-88.005381</LON >
+  <RESULT>Horn Lake ( Lake )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2585078</FEATURE_ID >
+  <FEATURE_NAME>Waubeka Census Designated Place</FEATURE_NAME >
+  <FEATURE_CLASS>Census</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.47021</LAT >
+  <LON>-87.993465</LON >
+  <RESULT>Waubeka Census Designated Place ( Census )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2697477</FEATURE_ID >
+  <FEATURE_NAME>Belgium Volunteer Fire Department</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.5013745</LAT >
+  <LON>-87.8527901</LON >
+  <RESULT>Belgium Volunteer Fire Department ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2697487</FEATURE_ID >
+  <FEATURE_NAME>Fredonia Fire Department</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4685939</LAT >
+  <LON>-87.9510602</LON >
+  <RESULT>Fredonia Fire Department ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2697494</FEATURE_ID >
+  <FEATURE_NAME>Saukville Fire Department and Rescue Squad</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3832133</LAT >
+  <LON>-87.9496877</LON >
+  <RESULT>Saukville Fire Department and Rescue Squad ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2697517</FEATURE_ID >
+  <FEATURE_NAME>Mequon Fire Department Station 2</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2324855</LAT >
+  <LON>-87.9231519</LON >
+  <RESULT>Mequon Fire Department Station 2 ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2697557</FEATURE_ID >
+  <FEATURE_NAME>Grafton Volunteer Fire Department</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3168986</LAT >
+  <LON>-87.950814</LON >
+  <RESULT>Grafton Volunteer Fire Department ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2697581</FEATURE_ID >
+  <FEATURE_NAME>Cedarburg Volunteer Fire Department Station 1</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2985111</LAT >
+  <LON>-87.9866961</LON >
+  <RESULT>Cedarburg Volunteer Fire Department Station 1 ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2697613</FEATURE_ID >
+  <FEATURE_NAME>Cedarburg Volunteer Fire Department Station 2</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3240319</LAT >
+  <LON>-88.0051749</LON >
+  <RESULT>Cedarburg Volunteer Fire Department Station 2 ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2697859</FEATURE_ID >
+  <FEATURE_NAME>Waubeka Volunteer Fire Department</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4734053</LAT >
+  <LON>-87.9913078</LON >
+  <RESULT>Waubeka Volunteer Fire Department ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2697897</FEATURE_ID >
+  <FEATURE_NAME>Mequon Fire Department Station 1</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2222532</LAT >
+  <LON>-87.9891596</LON >
+  <RESULT>Mequon Fire Department Station 1 ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2698019</FEATURE_ID >
+  <FEATURE_NAME>Thiensville Volunteer Fire Department and Ambulance</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2324053</LAT >
+  <LON>-87.9786204</LON >
+  <RESULT>Thiensville Volunteer Fire Department and Ambulance ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2698040</FEATURE_ID >
+  <FEATURE_NAME>Port Washington Fire Department</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3897091</LAT >
+  <LON>-87.8714157</LON >
+  <RESULT>Port Washington Fire Department ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2698339</FEATURE_ID >
+  <FEATURE_NAME>Mequon Ambulance Service Station 1</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.222199</LAT >
+  <LON>-87.9891631</LON >
+  <RESULT>Mequon Ambulance Service Station 1 ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2698340</FEATURE_ID >
+  <FEATURE_NAME>Northern Ozaukee Ambulance</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4686465</LAT >
+  <LON>-87.9510653</LON >
+  <RESULT>Northern Ozaukee Ambulance ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2698342</FEATURE_ID >
+  <FEATURE_NAME>Ohana Ambulance and Emergency Medical Services</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3782284</LAT >
+  <LON>-87.8919579</LON >
+  <RESULT>Ohana Ambulance and Emergency Medical Services ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2698344</FEATURE_ID >
+  <FEATURE_NAME>Mequon Ambulance Service Station 2</FEATURE_NAME >
+  <FEATURE_CLASS>Building</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2324876</LAT >
+  <LON>-87.9231528</LON >
+  <RESULT>Mequon Ambulance Service Station 2 ( Building )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2706499</FEATURE_ID >
+  <FEATURE_NAME>Cedar Lynn Farm</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3558333</LAT >
+  <LON>-88.0461111</LON >
+  <RESULT>Cedar Lynn Farm ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2711478</FEATURE_ID >
+  <FEATURE_NAME>Hartmann Pit</FEATURE_NAME >
+  <FEATURE_CLASS>Mine</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.5147222</LAT >
+  <LON>-88.0086111</LON >
+  <RESULT>Hartmann Pit ( Mine )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2711479</FEATURE_ID >
+  <FEATURE_NAME>Spring Lake Pit</FEATURE_NAME >
+  <FEATURE_CLASS>Mine</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.535</LAT >
+  <LON>-87.9661111</LON >
+  <RESULT>Spring Lake Pit ( Mine )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2716153</FEATURE_ID >
+  <FEATURE_NAME>Our Savior Lutheran School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3318018</LAT >
+  <LON>-87.932378</LON >
+  <RESULT>Our Savior Lutheran School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2716154</FEATURE_ID >
+  <FEATURE_NAME>Ozaukee Christian School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3860541</LAT >
+  <LON>-87.94333</LON >
+  <RESULT>Ozaukee Christian School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2716155</FEATURE_ID >
+  <FEATURE_NAME>Lumen Christi Catholic School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2229969</LAT >
+  <LON>-87.9446628</LON >
+  <RESULT>Lumen Christi Catholic School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2716278</FEATURE_ID >
+  <FEATURE_NAME>Ozaukee Elementary School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4764957</LAT >
+  <LON>-87.9430483</LON >
+  <RESULT>Ozaukee Elementary School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2716330</FEATURE_ID >
+  <FEATURE_NAME>Rosemary School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4698395</LAT >
+  <LON>-87.9492458</LON >
+  <RESULT>Rosemary School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2716408</FEATURE_ID >
+  <FEATURE_NAME>Wisconsin Virtual Academy</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4764287</LAT >
+  <LON>-87.9430903</LON >
+  <RESULT>Wisconsin Virtual Academy ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2716452</FEATURE_ID >
+  <FEATURE_NAME>Mequon Montessori School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2221362</LAT >
+  <LON>-87.9446182</LON >
+  <RESULT>Mequon Montessori School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2716551</FEATURE_ID >
+  <FEATURE_NAME>Blue Sky School of Professional Massage and Therapeutic Bodywork</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3087232</LAT >
+  <LON>-87.957565</LON >
+  <RESULT>Blue Sky School of Professional Massage and Therapeutic Bodywork ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2716654</FEATURE_ID >
+  <FEATURE_NAME>Port Washington Catholic School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4089819</LAT >
+  <LON>-87.8692201</LON >
+  <RESULT>Port Washington Catholic School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2716695</FEATURE_ID >
+  <FEATURE_NAME>Parkview Elementary School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3069807</LAT >
+  <LON>-88.000757</LON >
+  <RESULT>Parkview Elementary School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2716696</FEATURE_ID >
+  <FEATURE_NAME>Westlawn Elementary School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2873654</LAT >
+  <LON>-87.9909856</LON >
+  <RESULT>Westlawn Elementary School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2716766</FEATURE_ID >
+  <FEATURE_NAME>Saint Mary Parish School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4996388</LAT >
+  <LON>-87.8187317</LON >
+  <RESULT>Saint Mary Parish School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2716799</FEATURE_ID >
+  <FEATURE_NAME>Ozaukee Middle School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4764287</LAT >
+  <LON>-87.9430903</LON >
+  <RESULT>Ozaukee Middle School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2716903</FEATURE_ID >
+  <FEATURE_NAME>Honors High Online School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4764556</LAT >
+  <LON>-87.9431583</LON >
+  <RESULT>Honors High Online School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2716904</FEATURE_ID >
+  <FEATURE_NAME>Thorson Elementary School</FEATURE_NAME >
+  <FEATURE_CLASS>School</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3095916</LAT >
+  <LON>-87.9733235</LON >
+  <RESULT>Thorson Elementary School ( School )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2723884</FEATURE_ID >
+  <FEATURE_NAME>Fredonia Wastewater Treatment Plant</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.4677778</LAT >
+  <LON>-87.9627778</LON >
+  <RESULT>Fredonia Wastewater Treatment Plant ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2723885</FEATURE_ID >
+  <FEATURE_NAME>Grafton Wastewater Treatment Plant</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3083333</LAT >
+  <LON>-87.9555556</LON >
+  <RESULT>Grafton Wastewater Treatment Plant ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2723886</FEATURE_ID >
+  <FEATURE_NAME>Port Washington Wastewater Treatment Plant</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3927778</LAT >
+  <LON>-87.8644444</LON >
+  <RESULT>Port Washington Wastewater Treatment Plant ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2723887</FEATURE_ID >
+  <FEATURE_NAME>Saukville Wastewater Treatment Plant</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.3761111</LAT >
+  <LON>-87.94</LON >
+  <RESULT>Saukville Wastewater Treatment Plant ( Locale )</RESULT >
+ </row>
+ <row>
+  <FEATURE_ID>2725342</FEATURE_ID >
+  <FEATURE_NAME>Frenz Orchards</FEATURE_NAME >
+  <FEATURE_CLASS>Locale</FEATURE_CLASS >
+  <COUNTY_NAME>Ozaukee</COUNTY_NAME >
+  <LAT>43.2594444</LAT >
+  <LON>-88.0408333</LON >
+  <RESULT>Frenz Orchards ( Locale )</RESULT >
+ </row>
+</document>

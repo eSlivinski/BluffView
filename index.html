@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+		
+	<link rel="stylesheet" href="./Libraries/bootstrap-3.2.0/css/bootstrap.css" />
+	<link rel="stylesheet" href="./Libraries/bootstrap-3.2.0/css/bootstrap-theme.css" />
+	<link rel="stylesheet" href="./Libraries/slider/css/slider.css" />
+	<link rel="stylesheet" href="./Libraries/font-awesome-4.1.0/css/font-awesome.css" />
+	<link rel="stylesheet" href="./Libraries/Flaticon/flaticon.css" />
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.11.0/themes/smoothness/jquery-ui.css">
+	<link rel="stylesheet" href="./css/main.css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+
+
+<nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+	<div class="container-fluid">
+		
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a href="#" class="navbar-brand myTooltip" data-toggle="modal" data-target="#aboutModal" data-tooltip-title='About' data-tooltip-placement='bottom'>Ozaukee Bluff Erosion</a>
+	</div>
+
+
+
+		
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+		<ul class="nav navbar-nav navbar-left">
+			<li class="dropdown">
+					<a href="#" id= "yearMenu"class="dropdown-toggle myTooltip" data-toggle="dropdown" data-tooltip-title='Select Years' data-tooltip-placement='right'>
+						<span class="big sliderValue primary-menu">2010</span>
+						<span class='toggle alt-menu'>Current Year: <span class="sliderValue">2010</span></span>
+						<span class="caret"></span>
+					</a>
+					<ul id = "yearPicker" class="dropdown-menu" role="menu">
+						<li role="presentation" class="dropdown-header">Compare Bluff Features</li>
+						<li><a href="#" data="2010" class="currentYear">2010</a></li>
+						<li><a href="#" data="1999">1999</a></li>
+						<li><a href="#" data="1990">1990</a></li>
+						<li><a href="#" data="1980">1980</a></li>
+						<li><a href="#" data="1956">1956</a></li>
+								<a href="#" class="rightList prettyCheck yearSubmenu" target-sibling="[data='2010']" data='2010'></a>
+								<a href="#" class="rightList prettyCheck yearSubmenu" target-sibling="[data='1999']" data='1999'></a>
+								<a href="#" class="rightList prettyCheck yearSubmenu" target-sibling="[data='1990']" data='1990'></a>
+								<a href="#" class="rightList prettyCheck yearSubmenu" target-sibling="[data='1980']" data='1980'></a>
+								<a href="#" class="rightList prettyCheck yearSubmenu" target-sibling="[data='1956']" data='1956'></a>
+								<a href="#" class="rightList" target-sibling=".dropdown-header"><i class="fa fa-question-circle showHelp"></i></a>
+					</ul>
+		</li>
+
+
+		</ul>
+
+			<ul class="nav navbar-nav navbar-right">
+				<li>
+					<a href="#" id="playButton" data-toggle="tooltip" data-placement="bottom" title="Play Animation">
+						<span class='toggle alt-menu'> Play Animation</span>
+						<i class="primary-menu fa fa-2x flaticon-play15"></i>
+					</a>
+				</li>
+				
+				<li>
+					<a href="#" id="pauseButton" data-toggle="tooltip" data-placement="bottom" title="Pause Animation">
+						<span class='toggle alt-menu'> Pause Animation</span>
+						<i class="primary-menu fa fa-2x fa-pause"></i>
+					</a>
+				</li>
+
+				<!-- <li class="dropdown" id="layersDropdown" >
+					<a href="#" class="dropdown-toggle myTooltip" data-tooltip-placement="right"  data-tooltip-title="Toggle Layers" data-toggle="dropdown">
+						<span class='toggle alt-menu'>Overlay Layers</span>
+						<i class=" primary-menu fa flaticon-layers5"></i>
+						<span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu" role="menu">
+						
+				<li role="presentation" class="dropdown-header">Compare Bluff Features</li>
+						
+						<li><a href="#" class = "yearSubmenu prettyCheck" data="2010">2010</a></li>
+						
+					 <li><a href="#" class = "yearSubmenu prettyCheck" data="1999">1999</a></li>
+						
+						<li><a href="#" class = "yearSubmenu prettyCheck" data="1990">1990</a></li>
+
+						
+						<li><a href="#" class = "yearSubmenu prettyCheck" data="1980">1980</a></li>
+
+						
+						<li><a href="#" class = "yearSubmenu prettyCheck" data="1956">1956</a></li>
+					 
+					</ul>
+				</li> -->
+				<li class="dropdown">
+					<a href="#" class="dropdown-toggle myTooltip" data-toggle="dropdown" data-tooltip-title='Select Ortho Photos to Overlay' data-tooltip-placement='right'>
+						<i class=" primary-menu fa flaticon-layers5"></i>
+						<span class='toggle alt-menu'>Orthophotos</span>
+						<span class="caret"></span>
+					</a>
+					<ul id = "orthoPicker" class="dropdown-menu" role="menu">
+						<li role="presentation" class="dropdown-header primary-menu">Overlay Orthophotos</li>
+						<li><a href="#" class = "orthoSubmenu prettyRadio" data-group="orthos" data="2010">2010</a></li>
+						<li><a href="#" class = "orthoSubmenu prettyRadio" data-group="orthos" data="1999">1999</a></li>
+						<li><a href="#" class = "orthoSubmenu prettyRadio" data-group="orthos" data="1990">1990</a></li>
+						<li><a href="#" class = "orthoSubmenu prettyRadio" data-group="orthos" data="1980">1980</a></li>
+						<li><a href="#" class = "orthoSubmenu prettyRadio" data-group="orthos" data="1956">1956</a></li>
+						<li class="divider"></li>
+						<li><a href="#"  id = "noOverlays" class = "orthoSubmenu prettyRadio" data-group="orthos" data="0">None</a></li>
+					</ul>
+		</li>
+				<li>
+					<a href="#" id="distanceTool" data-toggle="tooltip" data-placement="bottom" title="Measure Distance">
+						<span class='toggle alt-menu'> Measure Distance</span>
+						<i class="primary-menu fa fa-2x flaticon-ruler13"></i>
+					</a>
+				</li>
+				<li class="dropdown" id="settingsDropdown">
+					<a href="#" class="dropdown-toggle myTooltip" data-tooltip-placement="right"  data-tooltip-title="Edit Map Settings" data-toggle="dropdown">
+						<span class='toggle alt-menu'>Settings</span>
+						<i class="primary-menu fa fa-cog fa-2x notflaticon"></i>
+						<span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu" role="menu">
+						<li role="presentation" class="dropdown-header">Animation Settings</li>
+						<li><a href="#" id= "enableGhosting" class="prettyCheck" style=""><span>Enable Ghosting</span></a></li>
+								<a href="#" id="ghostingExplanation" data-toggle="tooltip" class="rightList" target-sibling="#enableGhosting"  data-title='What is Ghosting?' data-placement='right'><i class="fa fa-question"></i></a>
+						
+						<li class="divider"></li>
+						<li class="dropdown-header" role="presentation" >Overlay Layers</li>
+						<li><a href="#" id= "overlayOzaukee" class="prettyCheck">County Boundries</a></li>
+						<li><a href="#" id= "countyLabels" class="prettyCheck"> County Labels</a></li>
+						
+						<li class="divider"></li>
+						<li><a href="#" id="clearOverlays">Remove All Overlays</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="#" class="myTooltip" data-toggle="modal" data-target="#helpModal" data-tooltip-placement="left" data-tooltip-title="Help using this application">
+						<span class='toggle alt-menu'> Help</span>
+						<i class="primary-menu fa fa-2x fa-life-ring notflaticon"></i>
+					</a>
+				</li>
+			</ul>
+
+		</div><!-- /.navbar-collapse -->
+		
+	</div><!-- /.container-fluid -->
+</nav>
+	<div id= "distanceInfo" class="up-top right-side customTools toggle">
+		<div class="tool-header"> Distance Calculator
+		<button type="button" class="close small-close">x</button></div>
+		<div class="tool-body">
+			<ul>
+				<li>Click at least two points on the map to calculate the distance between them.</li>
+				<li>Double-Click the map to start a new distance line.</li>
+				<li>When you are finished measuring, click the ruler</li>
+			</ul>
+		</div>
+	</div>
+
+	<div id= "distanceMeasured" class="down-low left-side customTools toggle">
+		<div class="tool-header">Total Distance</div>
+		<div class="tool-body">
+			<div id='totalDistance'>0 miles</div>
+		</div>
+	</div>
+
+	<div id= "compareFeatures" class="down-low left-side customTools toggle showOnce" data-trigger="#yearMenu">
+		<div class="tool-header">
+			Comparing Bluff Features
+			<button type="button" class="close small-close">x</button>
+		</div>
+		<div class="tool-body">
+			<ul>
+				<li>Click on a year to change the primary year being displayed on the map</li>
+				<li>Click on on the checkbox to overlay that year along side the primary year</li>
+			</ul>
+		</div>
+	</div>
+
+<div id="map"></div>
+	
+<nav class="navbar navbar-inverse navbar-fixed-bottom" role="navigation">
+	<!-- <div><i class="fa fa-cog" style="color: white; position: absolute; right: 5px; bottom: 15px;"></i></div> -->
+	<div class="container-fluid" style="padding-top:15px">
+
+			<div class="navbar-text" style="width:100%">
+				<div id="slider" class="toolbarSlider"></div>
+		<span id="stepForward" class="btn btn-link sliderControls" data-toggle="tooltip" data-placement="top" title="Skip forward">
+			<i class="fa fa-lg fa-step-forward"></i>
+		</span>
+
+		<span id="fastForward" class="btn btn-link sliderControls" data-toggle="tooltip" data-placement="top" title="Skip to the end">
+			<i class="fa fa-lg fa-fast-forward"></i>
+		</span>
+
+		<span id="fastBackward" class="btn btn-link pull-left sliderControls" data-toggle="tooltip" data-placement="top" title="Skip to begining">
+			<i class="fa fa-lg fa-fast-backward"></i>
+		</span>
+		
+		<span id="stepBack" class="btn btn-link pull-left sliderControls" data-toggle="tooltip" data-placement="top" title="Skip backwards">
+			<i class="fa fa-lg fa-step-backward"></i>
+		</span>
+
+			</div>
+		
+
+
+	</div>
+</nav>
+
+
+<div class="modal fade" id= "helpModal">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+				<h4 class="modal-title">Modal title</h4>
+			</div>
+			<div class="modal-body">
+				<h5>Help Text</h5>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+<div class="modal fade" id= "aboutModal">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+				<h4 class="modal-title">Ozaukee County, Wisconsin</h4>
+			</div>
+			<div class="modal-body">
+				<h5>About Text</h5>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade" id= "ghostingModal">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+				<h4 class="modal-title">Ghosting</h4>
+			</div>
+			<div class="modal-body">
+				<h5>About Text</h5>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</div>
+			<div class="modal-footer">
+				Ghosting: 
+				<div id="ghostingState" class="btn-group" data-toggle="buttons">
+					<label class="btn btn-primary active">
+						<input type="radio" name="ghostingState" data="on" checked>
+						<span >On</span>
+					</label>
+					<label class="btn btn-primary">
+						<input type="radio" name="ghostingState" data="off"> 
+						<span>Off</span>
+					</label>
+				</div>
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	<script src="http://d3js.org/d3.geo.projection.v0.min.js"></script>
+	<script src="http://d3js.org/topojson.v1.min.js"></script>
+	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+	<script src="http://cdn-geoweb.s3.amazonaws.com/esri-leaflet/0.0.1-beta.5/esri-leaflet.js"></script>
+	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+	<script src="//code.jquery.com/ui/1.11.0/jquery-ui.js"></script>
+	
+	<script src="./Libraries/slider/js/bootstrap-slider.js"></script>
+	<script src="./Libraries/OpenLayers.js"></script>
+	<script src="./Libraries/providers.js"></script>
+	<script src="./Libraries/bootstrap-3.2.0/js/bootstrap.js"></script>
+	<script src="./js/eventListeners.js"></script>
+
+	<script src="./js/slider.js"></script>
+	<script src="./js/init.js"></script>
+	<script src="./js/main.js"></script>
+	<script src="./js/distanceCalculator.js"></script>
+	<script src="./js/tween.js"></script>
+	<script src="./js/overviewMap.js"></script>
+	<script type="text/javascript">
+
+
+		$(document).on('ready', function(){
+			// makeOverviewMap()
+				
+				$(window).trigger('resize')
+				
+			 
+				 setTimeout(function() {
+					$('#aboutModal').modal()
+					$('#noOverlays').click()
+					$('#overlayOzaukee').click()
+					$('#countyLabels').click()
+					$('#enableGhosting').click()
+					// ozLabel()
+				 //    $('body').children().animate({
+				 //    opacity: 1
+				 //  }, 100, function() {
+						
+					// Animation complete.
+				// });
+				}, 700)
+			})
+	</script>
+	
+</body>
+
+</html>

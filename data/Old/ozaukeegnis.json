@@ -1,0 +1,593 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": Feature, "id": 1, "properties": { "FEATURE_ID": 1561517, "FEATURE_NAME": Belgium, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.499721, "LON": -87.850367, "RESULT": Belgium ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -87.850367, 43.499721 ] } }
+,
+{ "type": Feature, "id": 2, "properties": { "FEATURE_ID": 1561786, "FEATURE_NAME": Bigelow School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.265284, "LON": -87.963978, "RESULT": Bigelow School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.963978, 43.265284 ] } }
+,
+{ "type": Feature, "id": 3, "properties": { "FEATURE_ID": 1562060, "FEATURE_NAME": Bonniwell School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.265006, "LON": -88.002868, "RESULT": Bonniwell School ( School ) }, "geometry": { "type": Point, "coordinates": [ -88.002868, 43.265006 ] } }
+,
+{ "type": Feature, "id": 4, "properties": { "FEATURE_ID": 1562619, "FEATURE_NAME": Camp J C C, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.509998, "LON": -87.987592, "RESULT": Camp J C C ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.987592, 43.509998 ] } }
+,
+{ "type": Feature, "id": 5, "properties": { "FEATURE_ID": 1562841, "FEATURE_NAME": Cedar Creek, "FEATURE_CLASS": Stream, "COUNTY_NAME": Ozaukee, "LAT": 43.290561, "LON": -87.951200, "RESULT": Cedar Creek ( Stream ) }, "geometry": { "type": Point, "coordinates": [ -87.951200, 43.290561 ] } }
+,
+{ "type": Feature, "id": 6, "properties": { "FEATURE_ID": 1562869, "FEATURE_NAME": Cedarburg, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.296672, "LON": -87.987590, "RESULT": Cedarburg ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -87.987590, 43.296672 ] } }
+,
+{ "type": Feature, "id": 7, "properties": { "FEATURE_ID": 1562870, "FEATURE_NAME": Cedarburg Bog, "FEATURE_CLASS": Swamp, "COUNTY_NAME": Ozaukee, "LAT": 43.386946, "LON": -88.006202, "RESULT": Cedarburg Bog ( Swamp ) }, "geometry": { "type": Point, "coordinates": [ -88.006202, 43.386946 ] } }
+,
+{ "type": Feature, "id": 8, "properties": { "FEATURE_ID": 1562871, "FEATURE_NAME": Cedarburg Bog State Natural Area, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.382224, "LON": -88.010647, "RESULT": Cedarburg Bog State Natural Area ( Park ) }, "geometry": { "type": Point, "coordinates": [ -88.010647, 43.382224 ] } }
+,
+{ "type": Feature, "id": 9, "properties": { "FEATURE_ID": 1563562, "FEATURE_NAME": Crossroads Church, "FEATURE_CLASS": Church, "COUNTY_NAME": Ozaukee, "LAT": 43.252228, "LON": -87.984256, "RESULT": Crossroads Church ( Church ) }, "geometry": { "type": Point, "coordinates": [ -87.984256, 43.252228 ] } }
+,
+{ "type": Feature, "id": 10, "properties": { "FEATURE_ID": 1563682, "FEATURE_NAME": Daly Lake, "FEATURE_CLASS": Lake, "COUNTY_NAME": Ozaukee, "LAT": 43.425654, "LON": -87.999457, "RESULT": Daly Lake ( Lake ) }, "geometry": { "type": Point, "coordinates": [ -87.999457, 43.425654 ] } }
+,
+{ "type": Feature, "id": 11, "properties": { "FEATURE_ID": 1563796, "FEATURE_NAME": Decker Corner, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.351392, "LON": -88.045091, "RESULT": Decker Corner ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -88.045091, 43.351392 ] } }
+,
+{ "type": Feature, "id": 12, "properties": { "FEATURE_ID": 1564053, "FEATURE_NAME": Donges Bay, "FEATURE_CLASS": Bay, "COUNTY_NAME": Ozaukee, "LAT": 43.203619, "LON": -87.894253, "RESULT": Donges Bay ( Bay ) }, "geometry": { "type": Point, "coordinates": [ -87.894253, 43.203619 ] } }
+,
+{ "type": Feature, "id": 13, "properties": { "FEATURE_ID": 1564131, "FEATURE_NAME": Drzewiceki Lake, "FEATURE_CLASS": Lake, "COUNTY_NAME": Ozaukee, "LAT": 43.365718, "LON": -87.990482, "RESULT": Drzewiceki Lake ( Lake ) }, "geometry": { "type": Point, "coordinates": [ -87.990482, 43.365718 ] } }
+,
+{ "type": Feature, "id": 14, "properties": { "FEATURE_ID": 1564190, "FEATURE_NAME": Dunw"id"die Elementary School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.384141, "LON": -87.893881, "RESULT": Dunw"id"die Elementary School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.893881, 43.384141 ] } }
+,
+{ "type": Feature, "id": 15, "properties": { "FEATURE_ID": 1564463, "FEATURE_NAME": Ehler County Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.410002, "LON": -87.937312, "RESULT": Ehler County Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.937312, 43.410002 ] } }
+,
+{ "type": Feature, "id": 16, "properties": { "FEATURE_ID": 1564570, "FEATURE_NAME": Elm Tree School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.279172, "LON": -88.026479, "RESULT": Elm Tree School ( School ) }, "geometry": { "type": Point, "coordinates": [ -88.026479, 43.279172 ] } }
+,
+{ "type": Feature, "id": 17, "properties": { "FEATURE_ID": 1565037, "FEATURE_NAME": Five Corners, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.322504, "LON": -88.006202, "RESULT": Five Corners ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -88.006202, 43.322504 ] } }
+,
+{ "type": Feature, "id": 18, "properties": { "FEATURE_ID": 1565286, "FEATURE_NAME": Fredonia, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.470555, "LON": -87.950647, "RESULT": Fredonia ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -87.950647, 43.470555 ] } }
+,
+{ "type": Feature, "id": 19, "properties": { "FEATURE_ID": 1565298, "FEATURE_NAME": Freistadt, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.236117, "LON": -88.042590, "RESULT": Freistadt ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -88.042590, 43.236117 ] } }
+,
+{ "type": Feature, "id": 20, "properties": { "FEATURE_ID": 1565686, "FEATURE_NAME": Gough Lake, "FEATURE_CLASS": Lake, "COUNTY_NAME": Ozaukee, "LAT": 43.411172, "LON": -88.003440, "RESULT": Gough Lake ( Lake ) }, "geometry": { "type": Point, "coordinates": [ -88.003440, 43.411172 ] } }
+,
+{ "type": Feature, "id": 21, "properties": { "FEATURE_ID": 1565701, "FEATURE_NAME": Grady Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.383336, "LON": -87.941201, "RESULT": Grady Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.941201, 43.383336 ] } }
+,
+{ "type": Feature, "id": 22, "properties": { "FEATURE_ID": 1565704, "FEATURE_NAME": Grafton, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.319727, "LON": -87.953423, "RESULT": Grafton ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -87.953423, 43.319727 ] } }
+,
+{ "type": Feature, "id": 23, "properties": { "FEATURE_ID": 1565728, "FEATURE_NAME": Grandview School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.469722, "LON": -87.994536, "RESULT": Grandview School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.994536, 43.469722 ] } }
+,
+{ "type": Feature, "id": 24, "properties": { "FEATURE_ID": 1565951, "FEATURE_NAME": First Immanuel Lutheran School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.298599, "LON": -87.993702, "RESULT": First Immanuel Lutheran School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.993702, 43.298599 ] } }
+,
+{ "type": Feature, "id": 25, "properties": { "FEATURE_ID": 1566010, "FEATURE_NAME": Hamilton, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.284172, "LON": -87.971756, "RESULT": Hamilton ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -87.971756, 43.284172 ] } }
+,
+{ "type": Feature, "id": 26, "properties": { "FEATURE_ID": 1566032, "FEATURE_NAME": Haneman Lake, "FEATURE_CLASS": Lake, "COUNTY_NAME": Ozaukee, "LAT": 43.364202, "LON": -87.986764, "RESULT": Haneman Lake ( Lake ) }, "geometry": { "type": Point, "coordinates": [ -87.986764, 43.364202 ] } }
+,
+{ "type": Feature, "id": 27, "properties": { "FEATURE_ID": 1566046, "FEATURE_NAME": Sandhill Lake, "FEATURE_CLASS": Lake, "COUNTY_NAME": Ozaukee, "LAT": 43.441954, "LON": -87.995990, "RESULT": Sandhill Lake ( Lake ) }, "geometry": { "type": Point, "coordinates": [ -87.995990, 43.441954 ] } }
+,
+{ "type": Feature, "id": 28, "properties": { "FEATURE_ID": 1566167, "FEATURE_NAME": Hawthorne Hills County Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.452778, "LON": -87.976480, "RESULT": Hawthorne Hills County Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.976480, 43.452778 ] } }
+,
+{ "type": Feature, "id": 29, "properties": { "FEATURE_ID": 1566541, "FEATURE_NAME": Holden Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.411668, "LON": -87.938146, "RESULT": Holden Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -87.938146, 43.411668 ] } }
+,
+{ "type": Feature, "id": 30, "properties": { "FEATURE_ID": 1566567, "FEATURE_NAME": Holstein School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.249729, "LON": -87.962867, "RESULT": Holstein School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.962867, 43.249729 ] } }
+,
+{ "type": Feature, "id": 31, "properties": { "FEATURE_ID": 1566584, "FEATURE_NAME": Holy Cross, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.470278, "LON": -87.895645, "RESULT": Holy Cross ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -87.895645, 43.470278 ] } }
+,
+{ "type": Feature, "id": 32, "properties": { "FEATURE_ID": 1566705, "FEATURE_NAME": Horns Corners, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.341392, "LON": -88.023980, "RESULT": Horns Corners ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -88.023980, 43.341392 ] } }
+,
+{ "type": Feature, "id": 33, "properties": { "FEATURE_ID": 1566792, "FEATURE_NAME": Huiras Lake, "FEATURE_CLASS": Lake, "COUNTY_NAME": Ozaukee, "LAT": 43.513372, "LON": -87.982466, "RESULT": Huiras Lake ( Lake ) }, "geometry": { "type": Point, "coordinates": [ -87.982466, 43.513372 ] } }
+,
+{ "type": Feature, "id": 34, "properties": { "FEATURE_ID": 1567359, "FEATURE_NAME": Katarina Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.440556, "LON": -87.940368, "RESULT": Katarina Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -87.940368, 43.440556 ] } }
+,
+{ "type": Feature, "id": 35, "properties": { "FEATURE_ID": 1567569, "FEATURE_NAME": Knellsville, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.414168, "LON": -87.870922, "RESULT": Knellsville ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -87.870922, 43.414168 ] } }
+,
+{ "type": Feature, "id": 36, "properties": { "FEATURE_ID": 1567600, "FEATURE_NAME": Kohler, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.496387, "LON": -88.023426, "RESULT": Kohler ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -88.023426, 43.496387 ] } }
+,
+{ "type": Feature, "id": 37, "properties": { "FEATURE_ID": 1567726, "FEATURE_NAME": Lake Church, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.499721, "LON": -87.820644, "RESULT": Lake Church ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -87.820644, 43.499721 ] } }
+,
+{ "type": Feature, "id": 38, "properties": { "FEATURE_ID": 1567747, "FEATURE_NAME": Lake Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.395835, "LON": -87.864811, "RESULT": Lake Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.864811, 43.395835 ] } }
+,
+{ "type": Feature, "id": 39, "properties": { "FEATURE_ID": 1567768, "FEATURE_NAME": Lakefield, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.295005, "LON": -87.925644, "RESULT": Lakefield ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -87.925644, 43.295005 ] } }
+,
+{ "type": Feature, "id": 40, "properties": { "FEATURE_ID": 1567770, "FEATURE_NAME": Lakeland School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.413890, "LON": -87.995091, "RESULT": Lakeland School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.995091, 43.413890 ] } }
+,
+{ "type": Feature, "id": 41, "properties": { "FEATURE_ID": 1568136, "FEATURE_NAME": Lindenwood School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.243062, "LON": -88.047590, "RESULT": Lindenwood School ( School ) }, "geometry": { "type": Point, "coordinates": [ -88.047590, 43.243062 ] } }
+,
+{ "type": Feature, "id": 42, "properties": { "FEATURE_ID": 1568318, "FEATURE_NAME": Little Menomonee Creek, "FEATURE_CLASS": Stream, "COUNTY_NAME": Ozaukee, "LAT": 43.210285, "LON": -88.034534, "RESULT": Little Menomonee Creek ( Stream ) }, "geometry": { "type": Point, "coordinates": [ -88.034534, 43.210285 ] } }
+,
+{ "type": Feature, "id": 43, "properties": { "FEATURE_ID": 1568579, "FEATURE_NAME": Long Lake, "FEATURE_CLASS": Lake, "COUNTY_NAME": Ozaukee, "LAT": 43.388815, "LON": -88.001109, "RESULT": Long Lake ( Lake ) }, "geometry": { "type": Point, "coordinates": [ -88.001109, 43.388815 ] } }
+,
+{ "type": Feature, "id": 44, "properties": { "FEATURE_ID": 1568794, "FEATURE_NAME": Ludowissi Lake, "FEATURE_CLASS": Lake, "COUNTY_NAME": Ozaukee, "LAT": 43.537988, "LON": -87.934677, "RESULT": Ludowissi Lake ( Lake ) }, "geometry": { "type": Point, "coordinates": [ -87.934677, 43.537988 ] } }
+,
+{ "type": Feature, "id": 45, "properties": { "FEATURE_ID": 1568980, "FEATURE_NAME": Maple Grove School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.412224, "LON": -87.905923, "RESULT": Maple Grove School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.905923, 43.412224 ] } }
+,
+{ "type": Feature, "id": 46, "properties": { "FEATURE_ID": 1569252, "FEATURE_NAME": McKinley School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.440556, "LON": -87.940368, "RESULT": McKinley School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.940368, 43.440556 ] } }
+,
+{ "type": Feature, "id": 47, "properties": { "FEATURE_ID": 1569354, "FEATURE_NAME": Mequon, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.236396, "LON": -87.984533, "RESULT": Mequon ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -87.984533, 43.236396 ] } }
+,
+{ "type": Feature, "id": 48, "properties": { "FEATURE_ID": 1569355, "FEATURE_NAME": Mequon Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.222229, "LON": -87.985089, "RESULT": Mequon Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -87.985089, 43.222229 ] } }
+,
+{ "type": Feature, "id": 49, "properties": { "FEATURE_ID": 1569356, "FEATURE_NAME": Range Line Elementary School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.219174, "LON": -87.942032, "RESULT": Range Line Elementary School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.942032, 43.219174 ] } }
+,
+{ "type": Feature, "id": 50, "properties": { "FEATURE_ID": 1569640, "FEATURE_NAME": Moldenhauer Lake, "FEATURE_CLASS": Lake, "COUNTY_NAME": Ozaukee, "LAT": 43.338550, "LON": -87.984255, "RESULT": Moldenhauer Lake ( Lake ) }, "geometry": { "type": Point, "coordinates": [ -87.984255, 43.338550 ] } }
+,
+{ "type": Feature, "id": 51, "properties": { "FEATURE_ID": 1569994, "FEATURE_NAME": Mud Lake, "FEATURE_CLASS": Lake, "COUNTY_NAME": Ozaukee, "LAT": 43.374474, "LON": -88.020619, "RESULT": Mud Lake ( Lake ) }, "geometry": { "type": Point, "coordinates": [ -88.020619, 43.374474 ] } }
+,
+{ "type": Feature, "id": 52, "properties": { "FEATURE_ID": 1570553, "FEATURE_NAME": Norwegian Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.400835, "LON": -87.885367, "RESULT": Norwegian Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -87.885367, 43.400835 ] } }
+,
+{ "type": Feature, "id": 53, "properties": { "FEATURE_ID": 1570571, "FEATURE_NAME": Notre Dame of the Lake School (historical), "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.254173, "LON": -87.915366, "RESULT": Notre Dame of the Lake School (historical) ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.915366, 43.254173 ] } }
+,
+{ "type": Feature, "id": 54, "properties": { "FEATURE_ID": 1570786, "FEATURE_NAME": Old Settlers Rest Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.274450, "LON": -87.927588, "RESULT": Old Settlers Rest Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -87.927588, 43.274450 ] } }
+,
+{ "type": Feature, "id": 55, "properties": { "FEATURE_ID": 1571364, "FEATURE_NAME": Pigeon Creek, "FEATURE_CLASS": Stream, "COUNTY_NAME": Ozaukee, "LAT": 43.230562, "LON": -87.982867, "RESULT": Pigeon Creek ( Stream ) }, "geometry": { "type": Point, "coordinates": [ -87.982867, 43.230562 ] } }
+,
+{ "type": Feature, "id": 56, "properties": { "FEATURE_ID": 1571564, "FEATURE_NAME": Pit Lake, "FEATURE_CLASS": Lake, "COUNTY_NAME": Ozaukee, "LAT": 43.257004, "LON": -87.942005, "RESULT": Pit Lake ( Lake ) }, "geometry": { "type": Point, "coordinates": [ -87.942005, 43.257004 ] } }
+,
+{ "type": Feature, "id": 57, "properties": { "FEATURE_ID": 1571662, "FEATURE_NAME": Pleasant Valley School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.350559, "LON": -87.998980, "RESULT": Pleasant Valley School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.998980, 43.350559 ] } }
+,
+{ "type": Feature, "id": 58, "properties": { "FEATURE_ID": 1571797, "FEATURE_NAME": Port Washington, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.387225, "LON": -87.875644, "RESULT": Port Washington ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -87.875644, 43.387225 ] } }
+,
+{ "type": Feature, "id": 59, "properties": { "FEATURE_ID": 1572920, "FEATURE_NAME": Saint Finbars Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.436667, "LON": -88.000925, "RESULT": Saint Finbars Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -88.000925, 43.436667 ] } }
+,
+{ "type": Feature, "id": 60, "properties": { "FEATURE_ID": 1572921, "FEATURE_NAME": Saint Finbars School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.440278, "LON": -88.000369, "RESULT": Saint Finbars School ( School ) }, "geometry": { "type": Point, "coordinates": [ -88.000369, 43.440278 ] } }
+,
+{ "type": Feature, "id": 61, "properties": { "FEATURE_ID": 1572927, "FEATURE_NAME": Saint Francis Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.278616, "LON": -88.008701, "RESULT": Saint Francis Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -88.008701, 43.278616 ] } }
+,
+{ "type": Feature, "id": 62, "properties": { "FEATURE_ID": 1573039, "FEATURE_NAME": Saint Johns Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.461666, "LON": -88.000647, "RESULT": Saint Johns Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -88.000647, 43.461666 ] } }
+,
+{ "type": Feature, "id": 63, "properties": { "FEATURE_ID": 1573082, "FEATURE_NAME": Saint Johns Evangelical Lutheran Church, "FEATURE_CLASS": Church, "COUNTY_NAME": Ozaukee, "LAT": 43.221952, "LON": -87.927865, "RESULT": Saint Johns Evangelical Lutheran Church ( Church ) }, "geometry": { "type": Point, "coordinates": [ -87.927865, 43.221952 ] } }
+,
+{ "type": Feature, "id": 64, "properties": { "FEATURE_ID": 1573181, "FEATURE_NAME": Saint Joseph Parish School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.319577, "LON": -87.946242, "RESULT": Saint Joseph Parish School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.946242, 43.319577 ] } }
+,
+{ "type": Feature, "id": 65, "properties": { "FEATURE_ID": 1573281, "FEATURE_NAME": Saint Marys Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.408057, "LON": -87.878978, "RESULT": Saint Marys Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -87.878978, 43.408057 ] } }
+,
+{ "type": Feature, "id": 66, "properties": { "FEATURE_ID": 1573428, "FEATURE_NAME": Saint Paul Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.478333, "LON": -87.990925, "RESULT": Saint Paul Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -87.990925, 43.478333 ] } }
+,
+{ "type": Feature, "id": 67, "properties": { "FEATURE_ID": 1573439, "FEATURE_NAME": Saint Paul Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.319449, "LON": -87.962312, "RESULT": Saint Paul Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -87.962312, 43.319449 ] } }
+,
+{ "type": Feature, "id": 68, "properties": { "FEATURE_ID": 1573558, "FEATURE_NAME": Saint Rose Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.479166, "LON": -87.990925, "RESULT": Saint Rose Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -87.990925, 43.479166 ] } }
+,
+{ "type": Feature, "id": 69, "properties": { "FEATURE_ID": 1573733, "FEATURE_NAME": Sauk Creek, "FEATURE_CLASS": Stream, "COUNTY_NAME": Ozaukee, "LAT": 43.386669, "LON": -87.868977, "RESULT": Sauk Creek ( Stream ) }, "geometry": { "type": Point, "coordinates": [ -87.868977, 43.386669 ] } }
+,
+{ "type": Feature, "id": 70, "properties": { "FEATURE_ID": 1573739, "FEATURE_NAME": Saukville, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.381669, "LON": -87.940645, "RESULT": Saukville ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -87.940645, 43.381669 ] } }
+,
+{ "type": Feature, "id": 71, "properties": { "FEATURE_ID": 1574034, "FEATURE_NAME": Sherman School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.293616, "LON": -88.036202, "RESULT": Sherman School ( School ) }, "geometry": { "type": Point, "coordinates": [ -88.036202, 43.293616 ] } }
+,
+{ "type": Feature, "id": 72, "properties": { "FEATURE_ID": 1574327, "FEATURE_NAME": Smoky Hill School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.480555, "LON": -87.980925, "RESULT": Smoky Hill School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.980925, 43.480555 ] } }
+,
+{ "type": Feature, "id": 73, "properties": { "FEATURE_ID": 1574660, "FEATURE_NAME": Spring Lake, "FEATURE_CLASS": Lake, "COUNTY_NAME": Ozaukee, "LAT": 43.541023, "LON": -87.962812, "RESULT": Spring Lake ( Lake ) }, "geometry": { "type": Point, "coordinates": [ -87.962812, 43.541023 ] } }
+,
+{ "type": Feature, "id": 74, "properties": { "FEATURE_ID": 1575004, "FEATURE_NAME": Sucker Creek, "FEATURE_CLASS": Stream, "COUNTY_NAME": Ozaukee, "LAT": 43.422502, "LON": -87.838144, "RESULT": Sucker Creek ( Stream ) }, "geometry": { "type": Point, "coordinates": [ -87.838144, 43.422502 ] } }
+,
+{ "type": Feature, "id": 75, "properties": { "FEATURE_ID": 1575101, "FEATURE_NAME": Sunnys"id"e School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.207230, "LON": -88.003700, "RESULT": Sunnys"id"e School ( School ) }, "geometry": { "type": Point, "coordinates": [ -88.003700, 43.207230 ] } }
+,
+{ "type": Feature, "id": 76, "properties": { "FEATURE_ID": 1575351, "FEATURE_NAME": Thiensville, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.237507, "LON": -87.978700, "RESULT": Thiensville ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -87.978700, 43.237507 ] } }
+,
+{ "type": Feature, "id": 77, "properties": { "FEATURE_ID": 1575623, "FEATURE_NAME": Trinity Evangelical Lutheran Church, "FEATURE_CLASS": Church, "COUNTY_NAME": Ozaukee, "LAT": 43.199730, "LON": -87.967866, "RESULT": Trinity Evangelical Lutheran Church ( Church ) }, "geometry": { "type": Point, "coordinates": [ -87.967866, 43.199730 ] } }
+,
+{ "type": Feature, "id": 78, "properties": { "FEATURE_ID": 1575624, "FEATURE_NAME": Trinity Evangelical Lutheran Church, "FEATURE_CLASS": Church, "COUNTY_NAME": Ozaukee, "LAT": 43.207508, "LON": -88.003700, "RESULT": Trinity Evangelical Lutheran Church ( Church ) }, "geometry": { "type": Point, "coordinates": [ -88.003700, 43.207508 ] } }
+,
+{ "type": Feature, "id": 79, "properties": { "FEATURE_ID": 1575848, "FEATURE_NAME": Ulao School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.320560, "LON": -87.906477, "RESULT": Ulao School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.906477, 43.320560 ] } }
+,
+{ "type": Feature, "id": 80, "properties": { "FEATURE_ID": 1575878, "FEATURE_NAME": Union Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.538331, "LON": -87.970647, "RESULT": Union Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -87.970647, 43.538331 ] } }
+,
+{ "type": Feature, "id": 81, "properties": { "FEATURE_ID": 1576118, "FEATURE_NAME": Virmond Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.212508, "LON": -87.899809, "RESULT": Virmond Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.899809, 43.212508 ] } }
+,
+{ "type": Feature, "id": 82, "properties": { "FEATURE_ID": 1576280, "FEATURE_NAME": Washington School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.357226, "LON": -87.886755, "RESULT": Washington School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.886755, 43.357226 ] } }
+,
+{ "type": Feature, "id": 83, "properties": { "FEATURE_ID": 1576300, "FEATURE_NAME": Waubedonia Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.468333, "LON": -87.967869, "RESULT": Waubedonia Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.967869, 43.468333 ] } }
+,
+{ "type": Feature, "id": 84, "properties": { "FEATURE_ID": 1576304, "FEATURE_NAME": Waubeka, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.474999, "LON": -87.990370, "RESULT": Waubeka ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -87.990370, 43.474999 ] } }
+,
+{ "type": Feature, "id": 85, "properties": { "FEATURE_ID": 1576305, "FEATURE_NAME": Waubeka Union Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.462222, "LON": -87.980925, "RESULT": Waubeka Union Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -87.980925, 43.462222 ] } }
+,
+{ "type": Feature, "id": 86, "properties": { "FEATURE_ID": 1576806, "FEATURE_NAME": Wilson Elementary School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.217234, "LON": -87.990605, "RESULT": Wilson Elementary School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.990605, 43.217234 ] } }
+,
+{ "type": Feature, "id": 87, "properties": { "FEATURE_ID": 1577010, "FEATURE_NAME": Woodlawn Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.323060, "LON": -87.964256, "RESULT": Woodlawn Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -87.964256, 43.323060 ] } }
+,
+{ "type": Feature, "id": 88, "properties": { "FEATURE_ID": 1577188, "FEATURE_NAME": Zur Ruhe Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.300838, "LON": -87.983979, "RESULT": Zur Ruhe Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -87.983979, 43.300838 ] } }
+,
+{ "type": Feature, "id": 89, "properties": { "FEATURE_ID": 1577443, "FEATURE_NAME": South Pier Light, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.385003, "LON": -87.863977, "RESULT": South Pier Light ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.863977, 43.385003 ] } }
+,
+{ "type": Feature, "id": 90, "properties": { "FEATURE_ID": 1577444, "FEATURE_NAME": South Jetty Light, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.383336, "LON": -87.864255, "RESULT": South Jetty Light ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.864255, 43.383336 ] } }
+,
+{ "type": Feature, "id": 91, "properties": { "FEATURE_ID": 1577567, "FEATURE_NAME": Decker, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.470556, "LON": -87.862589, "RESULT": Decker ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -87.862589, 43.470556 ] } }
+,
+{ "type": Feature, "id": 92, "properties": { "FEATURE_ID": 1577577, "FEATURE_NAME": Druecker, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.440001, "LON": -87.871200, "RESULT": Druecker ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -87.871200, 43.440001 ] } }
+,
+{ "type": Feature, "id": 93, "properties": { "FEATURE_ID": 1577866, "FEATURE_NAME": Ulao, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.320560, "LON": -87.916477, "RESULT": Ulao ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -87.916477, 43.320560 ] } }
+,
+{ "type": Feature, "id": 94, "properties": { "FEATURE_ID": 1578033, "FEATURE_NAME": Port Washington Yacht Club, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.391391, "LON": -87.865922, "RESULT": Port Washington Yacht Club ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.865922, 43.391391 ] } }
+,
+{ "type": Feature, "id": 95, "properties": { "FEATURE_ID": 1578034, "FEATURE_NAME": Ashenfelter Aerodrome, "FEATURE_CLASS": Airport, "COUNTY_NAME": Ozaukee, "LAT": 43.348677, "LON": -87.994403, "RESULT": Ashenfelter Aerodrome ( Airport ) }, "geometry": { "type": Point, "coordinates": [ -87.994403, 43.348677 ] } }
+,
+{ "type": Feature, "id": 96, "properties": { "FEATURE_ID": 1578038, "FEATURE_NAME": WITI, "FEATURE_CLASS": Tower, "COUNTY_NAME": Ozaukee, "LAT": 43.208619, "LON": -87.921476, "RESULT": WITI ( Tower ) }, "geometry": { "type": Point, "coordinates": [ -87.921476, 43.208619 ] } }
+,
+{ "type": Feature, "id": 97, "properties": { "FEATURE_ID": 1581105, "FEATURE_NAME": Ozaukee County, "FEATURE_CLASS": Civil, "COUNTY_NAME": Ozaukee, "LAT": 43.383336, "LON": -87.950090, "RESULT": Ozaukee County ( Civil ) }, "geometry": { "type": Point, "coordinates": [ -87.950090, 43.383336 ] } }
+,
+{ "type": Feature, "id": 98, "properties": { "FEATURE_ID": 1581913, "FEATURE_NAME": Covered Br"id"ge Fields Airport, "FEATURE_CLASS": Airport, "COUNTY_NAME": Ozaukee, "LAT": 43.323188, "LON": -87.999103, "RESULT": Covered Br"id"ge Fields Airport ( Airport ) }, "geometry": { "type": Point, "coordinates": [ -87.999103, 43.323188 ] } }
+,
+{ "type": Feature, "id": 99, "properties": { "FEATURE_ID": 1581914, "FEATURE_NAME": SSS Aerodrome, "FEATURE_CLASS": Airport, "COUNTY_NAME": Ozaukee, "LAT": 43.276058, "LON": -87.995680, "RESULT": SSS Aerodrome ( Airport ) }, "geometry": { "type": Point, "coordinates": [ -87.995680, 43.276058 ] } }
+,
+{ "type": Feature, "id": 100, "properties": { "FEATURE_ID": 1581993, "FEATURE_NAME": Ashenfelter Aerodrome, "FEATURE_CLASS": Airport, "COUNTY_NAME": Ozaukee, "LAT": 43.348892, "LON": -87.994257, "RESULT": Ashenfelter Aerodrome ( Airport ) }, "geometry": { "type": Point, "coordinates": [ -87.994257, 43.348892 ] } }
+,
+{ "type": Feature, "id": 101, "properties": { "FEATURE_ID": 1582153, "FEATURE_NAME": Ozaukee Airport, "FEATURE_CLASS": Airport, "COUNTY_NAME": Ozaukee, "LAT": 43.421390, "LON": -87.888980, "RESULT": Ozaukee Airport ( Airport ) }, "geometry": { "type": Point, "coordinates": [ -87.888980, 43.421390 ] } }
+,
+{ "type": Feature, "id": 102, "properties": { "FEATURE_ID": 1582154, "FEATURE_NAME": Saint Marys Hospital Ozaukee Heliport, "FEATURE_CLASS": Airport, "COUNTY_NAME": Ozaukee, "LAT": 43.396391, "LON": -87.876477, "RESULT": Saint Marys Hospital Ozaukee Heliport ( Airport ) }, "geometry": { "type": Point, "coordinates": [ -87.876477, 43.396391 ] } }
+,
+{ "type": Feature, "id": 103, "properties": { "FEATURE_ID": 1582155, "FEATURE_NAME": Flying S Ranch Airport, "FEATURE_CLASS": Airport, "COUNTY_NAME": Ozaukee, "LAT": 43.363106, "LON": -87.889143, "RESULT": Flying S Ranch Airport ( Airport ) }, "geometry": { "type": Point, "coordinates": [ -87.889143, 43.363106 ] } }
+,
+{ "type": Feature, "id": 104, "properties": { "FEATURE_ID": 1582234, "FEATURE_NAME": Hoffman Prop Inc Heliport, "FEATURE_CLASS": Airport, "COUNTY_NAME": Ozaukee, "LAT": 43.266395, "LON": -87.965922, "RESULT": Hoffman Prop Inc Heliport ( Airport ) }, "geometry": { "type": Point, "coordinates": [ -87.965922, 43.266395 ] } }
+,
+{ "type": Feature, "id": 105, "properties": { "FEATURE_ID": 1582340, "FEATURE_NAME": WGLB-AM (Port Washington), "FEATURE_CLASS": Tower, "COUNTY_NAME": Ozaukee, "LAT": 43.386391, "LON": -87.919534, "RESULT": WGLB-AM (Port Washington) ( Tower ) }, "geometry": { "type": Point, "coordinates": [ -87.919534, 43.386391 ] } }
+,
+{ "type": Feature, "id": 106, "properties": { "FEATURE_ID": 1582442, "FEATURE_NAME": WGLB-FM (Port Washington), "FEATURE_CLASS": Tower, "COUNTY_NAME": Ozaukee, "LAT": 43.386114, "LON": -87.919534, "RESULT": WGLB-FM (Port Washington) ( Tower ) }, "geometry": { "type": Point, "coordinates": [ -87.919534, 43.386114 ] } }
+,
+{ "type": Feature, "id": 107, "properties": { "FEATURE_ID": 1582781, "FEATURE_NAME": Village of Belgium, "FEATURE_CLASS": Civil, "COUNTY_NAME": Ozaukee, "LAT": 43.500555, "LON": -87.850367, "RESULT": Village of Belgium ( Civil ) }, "geometry": { "type": Point, "coordinates": [ -87.850367, 43.500555 ] } }
+,
+{ "type": Feature, "id": 108, "properties": { "FEATURE_ID": 1582782, "FEATURE_NAME": Town of Belgium, "FEATURE_CLASS": Civil, "COUNTY_NAME": Ozaukee, "LAT": 43.494166, "LON": -87.858978, "RESULT": Town of Belgium ( Civil ) }, "geometry": { "type": Point, "coordinates": [ -87.858978, 43.494166 ] } }
+,
+{ "type": Feature, "id": 109, "properties": { "FEATURE_ID": 1582936, "FEATURE_NAME": City of Cedarburg, "FEATURE_CLASS": Civil, "COUNTY_NAME": Ozaukee, "LAT": 43.296672, "LON": -87.988423, "RESULT": City of Cedarburg ( Civil ) }, "geometry": { "type": Point, "coordinates": [ -87.988423, 43.296672 ] } }
+,
+{ "type": Feature, "id": 110, "properties": { "FEATURE_ID": 1582937, "FEATURE_NAME": Town of Cedarburg, "FEATURE_CLASS": Civil, "COUNTY_NAME": Ozaukee, "LAT": 43.324726, "LON": -88.016202, "RESULT": Town of Cedarburg ( Civil ) }, "geometry": { "type": Point, "coordinates": [ -88.016202, 43.324726 ] } }
+,
+{ "type": Feature, "id": 111, "properties": { "FEATURE_ID": 1583239, "FEATURE_NAME": Village of Fredonia, "FEATURE_CLASS": Civil, "COUNTY_NAME": Ozaukee, "LAT": 43.468333, "LON": -87.951758, "RESULT": Village of Fredonia ( Civil ) }, "geometry": { "type": Point, "coordinates": [ -87.951758, 43.468333 ] } }
+,
+{ "type": Feature, "id": 112, "properties": { "FEATURE_ID": 1583240, "FEATURE_NAME": Town of Fredonia, "FEATURE_CLASS": Civil, "COUNTY_NAME": Ozaukee, "LAT": 43.491388, "LON": -87.985370, "RESULT": Town of Fredonia ( Civil ) }, "geometry": { "type": Point, "coordinates": [ -87.985370, 43.491388 ] } }
+,
+{ "type": Feature, "id": 113, "properties": { "FEATURE_ID": 1583293, "FEATURE_NAME": Village of Grafton, "FEATURE_CLASS": Civil, "COUNTY_NAME": Ozaukee, "LAT": 43.318615, "LON": -87.954812, "RESULT": Village of Grafton ( Civil ) }, "geometry": { "type": Point, "coordinates": [ -87.954812, 43.318615 ] } }
+,
+{ "type": Feature, "id": 114, "properties": { "FEATURE_ID": 1583294, "FEATURE_NAME": Town of Grafton, "FEATURE_CLASS": Civil, "COUNTY_NAME": Ozaukee, "LAT": 43.325560, "LON": -87.923144, "RESULT": Town of Grafton ( Civil ) }, "geometry": { "type": Point, "coordinates": [ -87.923144, 43.325560 ] } }
+,
+{ "type": Feature, "id": 115, "properties": { "FEATURE_ID": 1583699, "FEATURE_NAME": City of Mequon, "FEATURE_CLASS": Civil, "COUNTY_NAME": Ozaukee, "LAT": 43.235840, "LON": -87.989256, "RESULT": City of Mequon ( Civil ) }, "geometry": { "type": Point, "coordinates": [ -87.989256, 43.235840 ] } }
+,
+{ "type": Feature, "id": 116, "properties": { "FEATURE_ID": 1583960, "FEATURE_NAME": City of Port Washington, "FEATURE_CLASS": Civil, "COUNTY_NAME": Ozaukee, "LAT": 43.393613, "LON": -87.880089, "RESULT": City of Port Washington ( Civil ) }, "geometry": { "type": Point, "coordinates": [ -87.880089, 43.393613 ] } }
+,
+{ "type": Feature, "id": 117, "properties": { "FEATURE_ID": 1583961, "FEATURE_NAME": Town of Port Washington, "FEATURE_CLASS": Civil, "COUNTY_NAME": Ozaukee, "LAT": 43.418890, "LON": -87.873144, "RESULT": Town of Port Washington ( Civil ) }, "geometry": { "type": Point, "coordinates": [ -87.873144, 43.418890 ] } }
+,
+{ "type": Feature, "id": 118, "properties": { "FEATURE_ID": 1584103, "FEATURE_NAME": Village of Saukville, "FEATURE_CLASS": Civil, "COUNTY_NAME": Ozaukee, "LAT": 43.383891, "LON": -87.941479, "RESULT": Village of Saukville ( Civil ) }, "geometry": { "type": Point, "coordinates": [ -87.941479, 43.383891 ] } }
+,
+{ "type": Feature, "id": 119, "properties": { "FEATURE_ID": 1584104, "FEATURE_NAME": Town of Saukville, "FEATURE_CLASS": Civil, "COUNTY_NAME": Ozaukee, "LAT": 43.408612, "LON": -87.988147, "RESULT": Town of Saukville ( Civil ) }, "geometry": { "type": Point, "coordinates": [ -87.988147, 43.408612 ] } }
+,
+{ "type": Feature, "id": 120, "properties": { "FEATURE_ID": 1584273, "FEATURE_NAME": Village of Thiensville, "FEATURE_CLASS": Civil, "COUNTY_NAME": Ozaukee, "LAT": 43.236674, "LON": -87.980089, "RESULT": Village of Thiensville ( Civil ) }, "geometry": { "type": Point, "coordinates": [ -87.980089, 43.236674 ] } }
+,
+{ "type": Feature, "id": 121, "properties": { "FEATURE_ID": 1791982, "FEATURE_NAME": Cedarburg Woolen Mill Dam, "FEATURE_CLASS": Dam, "COUNTY_NAME": Ozaukee, "LAT": 43.301671, "LON": -87.988423, "RESULT": Cedarburg Woolen Mill Dam ( Dam ) }, "geometry": { "type": Point, "coordinates": [ -87.988423, 43.301671 ] } }
+,
+{ "type": Feature, "id": 122, "properties": { "FEATURE_ID": 1791983, "FEATURE_NAME": 119 Reservoir, "FEATURE_CLASS": Reservoir, "COUNTY_NAME": Ozaukee, "LAT": 43.301671, "LON": -87.988423, "RESULT": 119 Reservoir ( Reservoir ) }, "geometry": { "type": Point, "coordinates": [ -87.988423, 43.301671 ] } }
+,
+{ "type": Feature, "id": 123, "properties": { "FEATURE_ID": 1791984, "FEATURE_NAME": Ruck Dam, "FEATURE_CLASS": Dam, "COUNTY_NAME": Ozaukee, "LAT": 43.296672, "LON": -87.973423, "RESULT": Ruck Dam ( Dam ) }, "geometry": { "type": Point, "coordinates": [ -87.973423, 43.296672 ] } }
+,
+{ "type": Feature, "id": 124, "properties": { "FEATURE_ID": 1791985, "FEATURE_NAME": 120 Reservoir, "FEATURE_CLASS": Reservoir, "COUNTY_NAME": Ozaukee, "LAT": 43.296672, "LON": -87.973423, "RESULT": 120 Reservoir ( Reservoir ) }, "geometry": { "type": Point, "coordinates": [ -87.973423, 43.296672 ] } }
+,
+{ "type": Feature, "id": 125, "properties": { "FEATURE_ID": 1791986, "FEATURE_NAME": Grafton Dam, "FEATURE_CLASS": Dam, "COUNTY_NAME": Ozaukee, "LAT": 43.318338, "LON": -87.948423, "RESULT": Grafton Dam ( Dam ) }, "geometry": { "type": Point, "coordinates": [ -87.948423, 43.318338 ] } }
+,
+{ "type": Feature, "id": 126, "properties": { "FEATURE_ID": 1791987, "FEATURE_NAME": 451 Reservoir, "FEATURE_CLASS": Reservoir, "COUNTY_NAME": Ozaukee, "LAT": 43.318338, "LON": -87.948423, "RESULT": 451 Reservoir ( Reservoir ) }, "geometry": { "type": Point, "coordinates": [ -87.948423, 43.318338 ] } }
+,
+{ "type": Feature, "id": 127, "properties": { "FEATURE_ID": 1792200, "FEATURE_NAME": Columbia Mills Dam, "FEATURE_CLASS": Dam, "COUNTY_NAME": Ozaukee, "LAT": 43.300005, "LON": -87.975090, "RESULT": Columbia Mills Dam ( Dam ) }, "geometry": { "type": Point, "coordinates": [ -87.975090, 43.300005 ] } }
+,
+{ "type": Feature, "id": 128, "properties": { "FEATURE_ID": 1792201, "FEATURE_NAME": Cedarburg Pond 121, "FEATURE_CLASS": Reservoir, "COUNTY_NAME": Ozaukee, "LAT": 43.298184, "LON": -87.979447, "RESULT": Cedarburg Pond 121 ( Reservoir ) }, "geometry": { "type": Point, "coordinates": [ -87.979447, 43.298184 ] } }
+,
+{ "type": Feature, "id": 129, "properties": { "FEATURE_ID": 1792202, "FEATURE_NAME": Waubeka Dam, "FEATURE_CLASS": Dam, "COUNTY_NAME": Ozaukee, "LAT": 43.471666, "LON": -87.991759, "RESULT": Waubeka Dam ( Dam ) }, "geometry": { "type": Point, "coordinates": [ -87.991759, 43.471666 ] } }
+,
+{ "type": Feature, "id": 130, "properties": { "FEATURE_ID": 1792203, "FEATURE_NAME": Waubeka Millpond 412, "FEATURE_CLASS": Reservoir, "COUNTY_NAME": Ozaukee, "LAT": 43.471666, "LON": -87.991759, "RESULT": Waubeka Millpond 412 ( Reservoir ) }, "geometry": { "type": Point, "coordinates": [ -87.991759, 43.471666 ] } }
+,
+{ "type": Feature, "id": 131, "properties": { "FEATURE_ID": 1792499, "FEATURE_NAME": G E Harris G8925 Dam, "FEATURE_CLASS": Dam, "COUNTY_NAME": Ozaukee, "LAT": 43.360003, "LON": -87.978424, "RESULT": G E Harris G8925 Dam ( Dam ) }, "geometry": { "type": Point, "coordinates": [ -87.978424, 43.360003 ] } }
+,
+{ "type": Feature, "id": 132, "properties": { "FEATURE_ID": 1792500, "FEATURE_NAME": 0.45 Reservoir, "FEATURE_CLASS": Reservoir, "COUNTY_NAME": Ozaukee, "LAT": 43.360003, "LON": -87.978424, "RESULT": 0.45 Reservoir ( Reservoir ) }, "geometry": { "type": Point, "coordinates": [ -87.978424, 43.360003 ] } }
+,
+{ "type": Feature, "id": 133, "properties": { "FEATURE_ID": 1792649, "FEATURE_NAME": Thiensville 2WP535 Dam, "FEATURE_CLASS": Dam, "COUNTY_NAME": Ozaukee, "LAT": 43.230007, "LON": -87.980089, "RESULT": Thiensville 2WP535 Dam ( Dam ) }, "geometry": { "type": Point, "coordinates": [ -87.980089, 43.230007 ] } }
+,
+{ "type": Feature, "id": 134, "properties": { "FEATURE_ID": 1792650, "FEATURE_NAME": Thiensville Millpond 594, "FEATURE_CLASS": Reservoir, "COUNTY_NAME": Ozaukee, "LAT": 43.230007, "LON": -87.980089, "RESULT": Thiensville Millpond 594 ( Reservoir ) }, "geometry": { "type": Point, "coordinates": [ -87.980089, 43.230007 ] } }
+,
+{ "type": Feature, "id": 135, "properties": { "FEATURE_ID": 1833583, "FEATURE_NAME": Calvary Lutheran School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.225678, "LON": -87.985705, "RESULT": Calvary Lutheran School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.985705, 43.225678 ] } }
+,
+{ "type": Feature, "id": 136, "properties": { "FEATURE_ID": 1833584, "FEATURE_NAME": Cedarburg High School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.297646, "LON": -87.996687, "RESULT": Cedarburg High School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.996687, 43.297646 ] } }
+,
+{ "type": Feature, "id": 137, "properties": { "FEATURE_ID": 1833585, "FEATURE_NAME": Cedarburg Post Office, "FEATURE_CLASS": Post Office, "COUNTY_NAME": Ozaukee, "LAT": 43.294727, "LON": -87.988145, "RESULT": Cedarburg Post Office ( Post Office ) }, "geometry": { "type": Point, "coordinates": [ -87.988145, 43.294727 ] } }
+,
+{ "type": Feature, "id": 138, "properties": { "FEATURE_ID": 1833586, "FEATURE_NAME": Donges Bay Elementary School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.205972, "LON": -87.940065, "RESULT": Donges Bay Elementary School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.940065, 43.205972 ] } }
+,
+{ "type": Feature, "id": 139, "properties": { "FEATURE_ID": 1833587, "FEATURE_NAME": First Congregational Church, "FEATURE_CLASS": Church, "COUNTY_NAME": Ozaukee, "LAT": 43.388613, "LON": -87.875922, "RESULT": First Congregational Church ( Church ) }, "geometry": { "type": Point, "coordinates": [ -87.875922, 43.388613 ] } }
+,
+{ "type": Feature, "id": 140, "properties": { "FEATURE_ID": 1833588, "FEATURE_NAME": Friedens Evangelical Church, "FEATURE_CLASS": Church, "COUNTY_NAME": Ozaukee, "LAT": 43.392224, "LON": -87.872033, "RESULT": Friedens Evangelical Church ( Church ) }, "geometry": { "type": Point, "coordinates": [ -87.872033, 43.392224 ] } }
+,
+{ "type": Feature, "id": 141, "properties": { "FEATURE_ID": 1833589, "FEATURE_NAME": Grafton Elementary School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.321279, "LON": -87.942237, "RESULT": Grafton Elementary School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.942237, 43.321279 ] } }
+,
+{ "type": Feature, "id": 142, "properties": { "FEATURE_ID": 1833590, "FEATURE_NAME": Grafton High School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.321265, "LON": -87.939736, "RESULT": Grafton High School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.939736, 43.321265 ] } }
+,
+{ "type": Feature, "id": 143, "properties": { "FEATURE_ID": 1833591, "FEATURE_NAME": Grand Avenue Evangelical United Brethren Church (historical), "FEATURE_CLASS": Church, "COUNTY_NAME": Ozaukee, "LAT": 43.386947, "LON": -87.879533, "RESULT": Grand Avenue Evangelical United Brethren Church (historical) ( Church ) }, "geometry": { "type": Point, "coordinates": [ -87.879533, 43.386947 ] } }
+,
+{ "type": Feature, "id": 144, "properties": { "FEATURE_ID": 1833592, "FEATURE_NAME": Hill Public School (historical), "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.387502, "LON": -87.885367, "RESULT": Hill Public School (historical) ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.885367, 43.387502 ] } }
+,
+{ "type": Feature, "id": 145, "properties": { "FEATURE_ID": 1833593, "FEATURE_NAME": Hills"id"e School (historical), "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.527220, "LON": -88.020371, "RESULT": Hills"id"e School (historical) ( School ) }, "geometry": { "type": Point, "coordinates": [ -88.020371, 43.527220 ] } }
+,
+{ "type": Feature, "id": 146, "properties": { "FEATURE_ID": 1833594, "FEATURE_NAME": Homestead High School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.223585, "LON": -87.970912, "RESULT": Homestead High School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.970912, 43.223585 ] } }
+,
+{ "type": Feature, "id": 147, "properties": { "FEATURE_ID": 1833595, "FEATURE_NAME": John Long M"id"dle School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.331637, "LON": -87.957234, "RESULT": John Long M"id"dle School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.957234, 43.331637 ] } }
+,
+{ "type": Feature, "id": 148, "properties": { "FEATURE_ID": 1833596, "FEATURE_NAME": Kennedy Elementary School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.313429, "LON": -87.953332, "RESULT": Kennedy Elementary School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.953332, 43.313429 ] } }
+,
+{ "type": Feature, "id": 149, "properties": { "FEATURE_ID": 1833597, "FEATURE_NAME": Lake Shore M"id"dle School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.218945, "LON": -87.942986, "RESULT": Lake Shore M"id"dle School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.942986, 43.218945 ] } }
+,
+{ "type": Feature, "id": 150, "properties": { "FEATURE_ID": 1833598, "FEATURE_NAME": Lincoln Elementary School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.404083, "LON": -87.875963, "RESULT": Lincoln Elementary School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.875963, 43.404083 ] } }
+,
+{ "type": Feature, "id": 151, "properties": { "FEATURE_ID": 1833599, "FEATURE_NAME": Oriole Lane Elementary School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.252631, "LON": -87.932016, "RESULT": Oriole Lane Elementary School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.932016, 43.252631 ] } }
+,
+{ "type": Feature, "id": 152, "properties": { "FEATURE_ID": 1833600, "FEATURE_NAME": Ozaukee County Courthouse, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.388336, "LON": -87.871200, "RESULT": Ozaukee County Courthouse ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.871200, 43.388336 ] } }
+,
+{ "type": Feature, "id": 153, "properties": { "FEATURE_ID": 1833601, "FEATURE_NAME": Ozaukee County Jail, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.388336, "LON": -87.872033, "RESULT": Ozaukee County Jail ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.872033, 43.388336 ] } }
+,
+{ "type": Feature, "id": 154, "properties": { "FEATURE_ID": 1833602, "FEATURE_NAME": Ozaukee High School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.476370, "LON": -87.943165, "RESULT": Ozaukee High School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.943165, 43.476370 ] } }
+,
+{ "type": Feature, "id": 155, "properties": { "FEATURE_ID": 1833603, "FEATURE_NAME": Port Washington High School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.390218, "LON": -87.877804, "RESULT": Port Washington High School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.877804, 43.390218 ] } }
+,
+{ "type": Feature, "id": 156, "properties": { "FEATURE_ID": 1833604, "FEATURE_NAME": Port Washington Post Office, "FEATURE_CLASS": Post Office, "COUNTY_NAME": Ozaukee, "LAT": 43.388614, "LON": -87.870644, "RESULT": Port Washington Post Office ( Post Office ) }, "geometry": { "type": Point, "coordinates": [ -87.870644, 43.388614 ] } }
+,
+{ "type": Feature, "id": 157, "properties": { "FEATURE_ID": 1833605, "FEATURE_NAME": Public School Number 1 (historical), "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.390002, "LON": -87.871755, "RESULT": Public School Number 1 (historical) ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.871755, 43.390002 ] } }
+,
+{ "type": Feature, "id": 158, "properties": { "FEATURE_ID": 1833606, "FEATURE_NAME": Saint Alphonsus Hospital, "FEATURE_CLASS": Hospital, "COUNTY_NAME": Ozaukee, "LAT": 43.397502, "LON": -87.876200, "RESULT": Saint Alphonsus Hospital ( Hospital ) }, "geometry": { "type": Point, "coordinates": [ -87.876200, 43.397502 ] } }
+,
+{ "type": Feature, "id": 159, "properties": { "FEATURE_ID": 1833607, "FEATURE_NAME": Saint Johns Lutheran Church, "FEATURE_CLASS": Church, "COUNTY_NAME": Ozaukee, "LAT": 43.384447, "LON": -87.875922, "RESULT": Saint Johns Lutheran Church ( Church ) }, "geometry": { "type": Point, "coordinates": [ -87.875922, 43.384447 ] } }
+,
+{ "type": Feature, "id": 160, "properties": { "FEATURE_ID": 1833608, "FEATURE_NAME": Saint Marys Roman Catholic Church, "FEATURE_CLASS": Church, "COUNTY_NAME": Ozaukee, "LAT": 43.391947, "LON": -87.869533, "RESULT": Saint Marys Roman Catholic Church ( Church ) }, "geometry": { "type": Point, "coordinates": [ -87.869533, 43.391947 ] } }
+,
+{ "type": Feature, "id": 161, "properties": { "FEATURE_ID": 1833609, "FEATURE_NAME": Saint Marys School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.392224, "LON": -87.868700, "RESULT": Saint Marys School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.868700, 43.392224 ] } }
+,
+{ "type": Feature, "id": 162, "properties": { "FEATURE_ID": 1833610, "FEATURE_NAME": Saint Paul Lutheran School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.319375, "LON": -87.957412, "RESULT": Saint Paul Lutheran School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.957412, 43.319375 ] } }
+,
+{ "type": Feature, "id": 163, "properties": { "FEATURE_ID": 1833611, "FEATURE_NAME": Saints Cecilia and James Catholic School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.231396, "LON": -87.987033, "RESULT": Saints Cecilia and James Catholic School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.987033, 43.231396 ] } }
+,
+{ "type": Feature, "id": 164, "properties": { "FEATURE_ID": 1833612, "FEATURE_NAME": Sauk Trail Beach, "FEATURE_CLASS": Populated Place, "COUNTY_NAME": Ozaukee, "LAT": 43.528610, "LON": -87.794532, "RESULT": Sauk Trail Beach ( Populated Place ) }, "geometry": { "type": Point, "coordinates": [ -87.794532, 43.528610 ] } }
+,
+{ "type": Feature, "id": 165, "properties": { "FEATURE_ID": 1833613, "FEATURE_NAME": Saukville Elementary School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.384793, "LON": -87.940046, "RESULT": Saukville Elementary School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.940046, 43.384793 ] } }
+,
+{ "type": Feature, "id": 166, "properties": { "FEATURE_ID": 1833614, "FEATURE_NAME": Steffen M"id"dle School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.217240, "LON": -87.992992, "RESULT": Steffen M"id"dle School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.992992, 43.217240 ] } }
+,
+{ "type": Feature, "id": 167, "properties": { "FEATURE_ID": 1833615, "FEATURE_NAME": Thomas Jefferson M"id"dle School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.404013, "LON": -87.878869, "RESULT": Thomas Jefferson M"id"dle School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.878869, 43.404013 ] } }
+,
+{ "type": Feature, "id": 168, "properties": { "FEATURE_ID": 1833616, "FEATURE_NAME": Trinity Lutheran School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.235234, "LON": -88.044627, "RESULT": Trinity Lutheran School ( School ) }, "geometry": { "type": Point, "coordinates": [ -88.044627, 43.235234 ] } }
+,
+{ "type": Feature, "id": 169, "properties": { "FEATURE_ID": 1833617, "FEATURE_NAME": Union Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.384169, "LON": -87.880644, "RESULT": Union Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -87.880644, 43.384169 ] } }
+,
+{ "type": Feature, "id": 170, "properties": { "FEATURE_ID": 1833618, "FEATURE_NAME": W J Niederkorn Public Library, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.387780, "LON": -87.875366, "RESULT": W J Niederkorn Public Library ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.875366, 43.387780 ] } }
+,
+{ "type": Feature, "id": 171, "properties": { "FEATURE_ID": 1833619, "FEATURE_NAME": Webster M"id"dle School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.297801, "LON": -88.002253, "RESULT": Webster M"id"dle School ( School ) }, "geometry": { "type": Point, "coordinates": [ -88.002253, 43.297801 ] } }
+,
+{ "type": Feature, "id": 172, "properties": { "FEATURE_ID": 1833620, "FEATURE_NAME": Woodview Elementary School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.332866, "LON": -87.958589, "RESULT": Woodview Elementary School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.958589, 43.332866 ] } }
+,
+{ "type": Feature, "id": 173, "properties": { "FEATURE_ID": 1845409, "FEATURE_NAME": Calvary Evangelical Lutheran Church, "FEATURE_CLASS": Church, "COUNTY_NAME": Ozaukee, "LAT": 43.225840, "LON": -87.984811, "RESULT": Calvary Evangelical Lutheran Church ( Church ) }, "geometry": { "type": Point, "coordinates": [ -87.984811, 43.225840 ] } }
+,
+{ "type": Feature, "id": 174, "properties": { "FEATURE_ID": 1845410, "FEATURE_NAME": Katherine Kearney Carpenter Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.198619, "LON": -87.920643, "RESULT": Katherine Kearney Carpenter Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.920643, 43.198619 ] } }
+,
+{ "type": Feature, "id": 175, "properties": { "FEATURE_ID": 1845411, "FEATURE_NAME": Mequon Community Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.224174, "LON": -87.984811, "RESULT": Mequon Community Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.984811, 43.224174 ] } }
+,
+{ "type": Feature, "id": 176, "properties": { "FEATURE_ID": 1845412, "FEATURE_NAME": North Shore Country Club, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.215008, "LON": -87.948421, "RESULT": North Shore Country Club ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.948421, 43.215008 ] } }
+,
+{ "type": Feature, "id": 177, "properties": { "FEATURE_ID": 1845413, "FEATURE_NAME": Ozaukee Country Club, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.217785, "LON": -87.969255, "RESULT": Ozaukee Country Club ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.969255, 43.217785 ] } }
+,
+{ "type": Feature, "id": 178, "properties": { "FEATURE_ID": 1845414, "FEATURE_NAME": Trinity Lutheran Church, "FEATURE_CLASS": Church, "COUNTY_NAME": Ozaukee, "LAT": 43.235284, "LON": -88.043701, "RESULT": Trinity Lutheran Church ( Church ) }, "geometry": { "type": Point, "coordinates": [ -88.043701, 43.235284 ] } }
+,
+{ "type": Feature, "id": 179, "properties": { "FEATURE_ID": 2093523, "FEATURE_NAME": Cedarburg Beech Woods State Natural Area, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.384722, "LON": -88.026944, "RESULT": Cedarburg Beech Woods State Natural Area ( Park ) }, "geometry": { "type": Point, "coordinates": [ -88.026944, 43.384722 ] } }
+,
+{ "type": Feature, "id": 180, "properties": { "FEATURE_ID": 2093524, "FEATURE_NAME": Fairy Chasm State Natural Area, "FEATURE_CLASS": Reserve, "COUNTY_NAME": Ozaukee, "LAT": 43.198056, "LON": -87.899167, "RESULT": Fairy Chasm State Natural Area ( Reserve ) }, "geometry": { "type": Point, "coordinates": [ -87.899167, 43.198056 ] } }
+,
+{ "type": Feature, "id": 181, "properties": { "FEATURE_ID": 2093525, "FEATURE_NAME": Huiras Lake State Natural Area, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.519444, "LON": -87.983333, "RESULT": Huiras Lake State Natural Area ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.983333, 43.519444 ] } }
+,
+{ "type": Feature, "id": 182, "properties": { "FEATURE_ID": 2093526, "FEATURE_NAME": Kurtz Woods State Natural Area, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.361667, "LON": -87.954167, "RESULT": Kurtz Woods State Natural Area ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.954167, 43.361667 ] } }
+,
+{ "type": Feature, "id": 183, "properties": { "FEATURE_ID": 2093527, "FEATURE_NAME": Riveredge Creek And Ephemeral Pond State Nature Preserve, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.435278, "LON": -88.018889, "RESULT": Riveredge Creek And Ephemeral Pond State Nature Preserve ( Park ) }, "geometry": { "type": Point, "coordinates": [ -88.018889, 43.435278 ] } }
+,
+{ "type": Feature, "id": 184, "properties": { "FEATURE_ID": 2093528, "FEATURE_NAME": Sapa Spruce Bog State Natural Area, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.394167, "LON": -88.027778, "RESULT": Sapa Spruce Bog State Natural Area ( Park ) }, "geometry": { "type": Point, "coordinates": [ -88.027778, 43.394167 ] } }
+,
+{ "type": Feature, "id": 185, "properties": { "FEATURE_ID": 2093536, "FEATURE_NAME": Cedar Creek Stock Farm (historical), "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.291667, "LON": -87.962500, "RESULT": Cedar Creek Stock Farm (historical) ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.962500, 43.291667 ] } }
+,
+{ "type": Feature, "id": 186, "properties": { "FEATURE_ID": 2093537, "FEATURE_NAME": River Bend Stock Farm (historical), "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.290000, "LON": -87.947222, "RESULT": River Bend Stock Farm (historical) ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.947222, 43.290000 ] } }
+,
+{ "type": Feature, "id": 187, "properties": { "FEATURE_ID": 2093538, "FEATURE_NAME": Dudley Farm, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.340833, "LON": -87.921111, "RESULT": Dudley Farm ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.921111, 43.340833 ] } }
+,
+{ "type": Feature, "id": 188, "properties": { "FEATURE_ID": 2093539, "FEATURE_NAME": Evergreen Stock Farm, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.341111, "LON": -87.949722, "RESULT": Evergreen Stock Farm ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.949722, 43.341111 ] } }
+,
+{ "type": Feature, "id": 189, "properties": { "FEATURE_ID": 2093540, "FEATURE_NAME": Oakland Stock Farm, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.361111, "LON": -87.927778, "RESULT": Oakland Stock Farm ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.927778, 43.361111 ] } }
+,
+{ "type": Feature, "id": 190, "properties": { "FEATURE_ID": 2093541, "FEATURE_NAME": Orchard Hill Stock Farm, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.343333, "LON": -87.949167, "RESULT": Orchard Hill Stock Farm ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.949167, 43.343333 ] } }
+,
+{ "type": Feature, "id": 191, "properties": { "FEATURE_ID": 2093542, "FEATURE_NAME": Pleasant Home Farm (historical), "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.366667, "LON": -87.954722, "RESULT": Pleasant Home Farm (historical) ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.954722, 43.366667 ] } }
+,
+{ "type": Feature, "id": 192, "properties": { "FEATURE_ID": 2119315, "FEATURE_NAME": Lilly Lane Nature Preserve, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.197500, "LON": -87.991389, "RESULT": Lilly Lane Nature Preserve ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.991389, 43.197500 ] } }
+,
+{ "type": Feature, "id": 193, "properties": { "FEATURE_ID": 2119316, "FEATURE_NAME": River Forest Nature Preserve, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.237778, "LON": -87.937500, "RESULT": River Forest Nature Preserve ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.937500, 43.237778 ] } }
+,
+{ "type": Feature, "id": 194, "properties": { "FEATURE_ID": 2119317, "FEATURE_NAME": Shoreland Nature Preserve, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.242778, "LON": -87.937222, "RESULT": Shoreland Nature Preserve ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.937222, 43.242778 ] } }
+,
+{ "type": Feature, "id": 195, "properties": { "FEATURE_ID": 2119318, "FEATURE_NAME": Willow Bay Nature Preserve, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.248889, "LON": -87.935833, "RESULT": Willow Bay Nature Preserve ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.935833, 43.248889 ] } }
+,
+{ "type": Feature, "id": 196, "properties": { "FEATURE_ID": 2119336, "FEATURE_NAME": Grasslyn Nature Preserve, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.198333, "LON": -87.936389, "RESULT": Grasslyn Nature Preserve ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.936389, 43.198333 ] } }
+,
+{ "type": Feature, "id": 197, "properties": { "FEATURE_ID": 2119337, "FEATURE_NAME": Mequan Pavilions Shopping Center, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.219167, "LON": -87.925000, "RESULT": Mequan Pavilions Shopping Center ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.925000, 43.219167 ] } }
+,
+{ "type": Feature, "id": 198, "properties": { "FEATURE_ID": 2119338, "FEATURE_NAME": Brooks Stevens Automotive Museum, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.205278, "LON": -87.925278, "RESULT": Brooks Stevens Automotive Museum ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.925278, 43.205278 ] } }
+,
+{ "type": Feature, "id": 199, "properties": { "FEATURE_ID": 2119339, "FEATURE_NAME": Lac Du Cours, "FEATURE_CLASS": Lake, "COUNTY_NAME": Ozaukee, "LAT": 43.201111, "LON": -87.960278, "RESULT": Lac Du Cours ( Lake ) }, "geometry": { "type": Point, "coordinates": [ -87.960278, 43.201111 ] } }
+,
+{ "type": Feature, "id": 200, "properties": { "FEATURE_ID": 2119340, "FEATURE_NAME": River Barn Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.196667, "LON": -87.963889, "RESULT": River Barn Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.963889, 43.196667 ] } }
+,
+{ "type": Feature, "id": 201, "properties": { "FEATURE_ID": 2119341, "FEATURE_NAME": Trinity Lutheran Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.199444, "LON": -87.967500, "RESULT": Trinity Lutheran Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -87.967500, 43.199444 ] } }
+,
+{ "type": Feature, "id": 202, "properties": { "FEATURE_ID": 2119342, "FEATURE_NAME": Settlers Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.223889, "LON": -87.983333, "RESULT": Settlers Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.983333, 43.223889 ] } }
+,
+{ "type": Feature, "id": 203, "properties": { "FEATURE_ID": 2119343, "FEATURE_NAME": Mequan City Hall, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.223611, "LON": -87.984444, "RESULT": Mequan City Hall ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.984444, 43.223611 ] } }
+,
+{ "type": Feature, "id": 204, "properties": { "FEATURE_ID": 2119344, "FEATURE_NAME": Thiensville City Hall, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.232500, "LON": -87.980000, "RESULT": Thiensville City Hall ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.980000, 43.232500 ] } }
+,
+{ "type": Feature, "id": 205, "properties": { "FEATURE_ID": 2119345, "FEATURE_NAME": Thiensville Village Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.232222, "LON": -87.976667, "RESULT": Thiensville Village Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.976667, 43.232222 ] } }
+,
+{ "type": Feature, "id": 206, "properties": { "FEATURE_ID": 2119346, "FEATURE_NAME": Scout Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.236667, "LON": -87.949167, "RESULT": Scout Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.949167, 43.236667 ] } }
+,
+{ "type": Feature, "id": 207, "properties": { "FEATURE_ID": 2119347, "FEATURE_NAME": Riverview Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.233333, "LON": -87.961389, "RESULT": Riverview Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.961389, 43.233333 ] } }
+,
+{ "type": Feature, "id": 208, "properties": { "FEATURE_ID": 2119348, "FEATURE_NAME": Village Grove Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.236389, "LON": -87.954167, "RESULT": Village Grove Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.954167, 43.236389 ] } }
+,
+{ "type": Feature, "id": 209, "properties": { "FEATURE_ID": 2119349, "FEATURE_NAME": Mequan Country Club, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.244444, "LON": -87.953056, "RESULT": Mequan Country Club ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.953056, 43.244444 ] } }
+,
+{ "type": Feature, "id": 210, "properties": { "FEATURE_ID": 2119475, "FEATURE_NAME": Milwaukee Area Technical College-North Campus, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.248333, "LON": -87.975278, "RESULT": Milwaukee Area Technical College-North Campus ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.975278, 43.248333 ] } }
+,
+{ "type": Feature, "id": 211, "properties": { "FEATURE_ID": 2119476, "FEATURE_NAME": Highland Woods, "FEATURE_CLASS": Woods, "COUNTY_NAME": Ozaukee, "LAT": 43.247778, "LON": -87.985833, "RESULT": Highland Woods ( Woods ) }, "geometry": { "type": Point, "coordinates": [ -87.985833, 43.247778 ] } }
+,
+{ "type": Feature, "id": 212, "properties": { "FEATURE_ID": 2119477, "FEATURE_NAME": Concordia University Wisconsin, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.254216, "LON": -87.916628, "RESULT": Concordia University Wisconsin ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.916628, 43.254216 ] } }
+,
+{ "type": Feature, "id": 213, "properties": { "FEATURE_ID": 2119478, "FEATURE_NAME": Columbia Saint Marys Hospital Ozaukee, "FEATURE_CLASS": Hospital, "COUNTY_NAME": Ozaukee, "LAT": 43.256338, "LON": -87.926219, "RESULT": Columbia Saint Marys Hospital Ozaukee ( Hospital ) }, "geometry": { "type": Point, "coordinates": [ -87.926219, 43.256338 ] } }
+,
+{ "type": Feature, "id": 214, "properties": { "FEATURE_ID": 2119479, "FEATURE_NAME": Missing Links Golf Course, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.253056, "LON": -87.921944, "RESULT": Missing Links Golf Course ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.921944, 43.253056 ] } }
+,
+{ "type": Feature, "id": 215, "properties": { "FEATURE_ID": 2119480, "FEATURE_NAME": Mequon Rotary Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.253611, "LON": -87.958889, "RESULT": Mequon Rotary Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.958889, 43.253611 ] } }
+,
+{ "type": Feature, "id": 216, "properties": { "FEATURE_ID": 2119481, "FEATURE_NAME": Pukaite Woods, "FEATURE_CLASS": Woods, "COUNTY_NAME": Ozaukee, "LAT": 43.257500, "LON": -87.958611, "RESULT": Pukaite Woods ( Woods ) }, "geometry": { "type": Point, "coordinates": [ -87.958611, 43.257500 ] } }
+,
+{ "type": Feature, "id": 217, "properties": { "FEATURE_ID": 2119482, "FEATURE_NAME": Mee-Kwon Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.255278, "LON": -87.985833, "RESULT": Mee-Kwon Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.985833, 43.255278 ] } }
+,
+{ "type": Feature, "id": 218, "properties": { "FEATURE_ID": 2119483, "FEATURE_NAME": Mee-Kwon Park Golf Course, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.262222, "LON": -87.983889, "RESULT": Mee-Kwon Park Golf Course ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.983889, 43.262222 ] } }
+,
+{ "type": Feature, "id": 219, "properties": { "FEATURE_ID": 2119484, "FEATURE_NAME": Hamilton Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.283611, "LON": -87.972222, "RESULT": Hamilton Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.972222, 43.283611 ] } }
+,
+{ "type": Feature, "id": 220, "properties": { "FEATURE_ID": 2119485, "FEATURE_NAME": Immanuel Cemetery, "FEATURE_CLASS": Cemetery, "COUNTY_NAME": Ozaukee, "LAT": 43.287500, "LON": -87.976111, "RESULT": Immanuel Cemetery ( Cemetery ) }, "geometry": { "type": Point, "coordinates": [ -87.976111, 43.287500 ] } }
+,
+{ "type": Feature, "id": 221, "properties": { "FEATURE_ID": 2119486, "FEATURE_NAME": Herman A Zeunert Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.287222, "LON": -87.979722, "RESULT": Herman A Zeunert Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.979722, 43.287222 ] } }
+,
+{ "type": Feature, "id": 222, "properties": { "FEATURE_ID": 2119487, "FEATURE_NAME": Legion Memorial Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.293611, "LON": -87.982778, "RESULT": Legion Memorial Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.982778, 43.293611 ] } }
+,
+{ "type": Feature, "id": 223, "properties": { "FEATURE_ID": 2119488, "FEATURE_NAME": Cedar Creek Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.295556, "LON": -87.983333, "RESULT": Cedar Creek Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.983333, 43.295556 ] } }
+,
+{ "type": Feature, "id": 224, "properties": { "FEATURE_ID": 2119489, "FEATURE_NAME": Adlai Horn Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.297222, "LON": -87.982222, "RESULT": Adlai Horn Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.982222, 43.297222 ] } }
+,
+{ "type": Feature, "id": 225, "properties": { "FEATURE_ID": 2119490, "FEATURE_NAME": Cedarburg Town Hall, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.321667, "LON": -88.006111, "RESULT": Cedarburg Town Hall ( Building ) }, "geometry": { "type": Point, "coordinates": [ -88.006111, 43.321667 ] } }
+,
+{ "type": Feature, "id": 226, "properties": { "FEATURE_ID": 2119491, "FEATURE_NAME": Centennial Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.306389, "LON": -87.997222, "RESULT": Centennial Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.997222, 43.306389 ] } }
+,
+{ "type": Feature, "id": 227, "properties": { "FEATURE_ID": 2119492, "FEATURE_NAME": Willowbrooke Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.310000, "LON": -87.989444, "RESULT": Willowbrooke Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.989444, 43.310000 ] } }
+,
+{ "type": Feature, "id": 228, "properties": { "FEATURE_ID": 2119493, "FEATURE_NAME": Ozaukee County Fairgrounds, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.306667, "LON": -87.991389, "RESULT": Ozaukee County Fairgrounds ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.991389, 43.306667 ] } }
+,
+{ "type": Feature, "id": 229, "properties": { "FEATURE_ID": 2119494, "FEATURE_NAME": Firemen's Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.304167, "LON": -87.990556, "RESULT": Firemen's Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.990556, 43.304167 ] } }
+,
+{ "type": Feature, "id": 230, "properties": { "FEATURE_ID": 2119495, "FEATURE_NAME": Ozaukee Arts Center, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.301389, "LON": -87.987222, "RESULT": Ozaukee Arts Center ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.987222, 43.301389 ] } }
+,
+{ "type": Feature, "id": 231, "properties": { "FEATURE_ID": 2119496, "FEATURE_NAME": Woodland Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.303889, "LON": -87.982500, "RESULT": Woodland Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.982500, 43.303889 ] } }
+,
+{ "type": Feature, "id": 232, "properties": { "FEATURE_ID": 2119497, "FEATURE_NAME": Manchester Plaza Shopping Center, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.307222, "LON": -87.963056, "RESULT": Manchester Plaza Shopping Center ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.963056, 43.307222 ] } }
+,
+{ "type": Feature, "id": 233, "properties": { "FEATURE_ID": 2119498, "FEATURE_NAME": Grafton Plaza Shopping Center, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.308889, "LON": -87.959167, "RESULT": Grafton Plaza Shopping Center ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.959167, 43.308889 ] } }
+,
+{ "type": Feature, "id": 234, "properties": { "FEATURE_ID": 2119499, "FEATURE_NAME": Lime Kiln Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.305278, "LON": -87.955000, "RESULT": Lime Kiln Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.955000, 43.305278 ] } }
+,
+{ "type": Feature, "id": 235, "properties": { "FEATURE_ID": 2119500, "FEATURE_NAME": Wildwood Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.316944, "LON": -87.965833, "RESULT": Wildwood Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.965833, 43.316944 ] } }
+,
+{ "type": Feature, "id": 236, "properties": { "FEATURE_ID": 2119501, "FEATURE_NAME": Grafton Town Hall, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.319444, "LON": -87.952222, "RESULT": Grafton Town Hall ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.952222, 43.319444 ] } }
+,
+{ "type": Feature, "id": 237, "properties": { "FEATURE_ID": 2119502, "FEATURE_NAME": Veterans Memorial Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.321944, "LON": -87.950000, "RESULT": Veterans Memorial Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.950000, 43.321944 ] } }
+,
+{ "type": Feature, "id": 238, "properties": { "FEATURE_ID": 2119503, "FEATURE_NAME": River Island Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.326111, "LON": -87.945000, "RESULT": River Island Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.945000, 43.326111 ] } }
+,
+{ "type": Feature, "id": 239, "properties": { "FEATURE_ID": 2119504, "FEATURE_NAME": Grafton Retail Center Shopping Center, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.320833, "LON": -87.926111, "RESULT": Grafton Retail Center Shopping Center ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.926111, 43.320833 ] } }
+,
+{ "type": Feature, "id": 240, "properties": { "FEATURE_ID": 2119505, "FEATURE_NAME": Country Club of Wisconsin, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.352778, "LON": -87.930833, "RESULT": Country Club of Wisconsin ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.930833, 43.352778 ] } }
+,
+{ "type": Feature, "id": 241, "properties": { "FEATURE_ID": 2119506, "FEATURE_NAME": Meadowbrook Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.332222, "LON": -87.947500, "RESULT": Meadowbrook Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -87.947500, 43.332222 ] } }
+,
+{ "type": Feature, "id": 242, "properties": { "FEATURE_ID": 2119507, "FEATURE_NAME": Covered Br"id"ge Park, "FEATURE_CLASS": Park, "COUNTY_NAME": Ozaukee, "LAT": 43.338611, "LON": -88.003889, "RESULT": Covered Br"id"ge Park ( Park ) }, "geometry": { "type": Point, "coordinates": [ -88.003889, 43.338611 ] } }
+,
+{ "type": Feature, "id": 243, "properties": { "FEATURE_ID": 2351040, "FEATURE_NAME": Interchange 85, "FEATURE_CLASS": Crossing, "COUNTY_NAME": Ozaukee, "LAT": 43.221111, "LON": -87.921667, "RESULT": Interchange 85 ( Crossing ) }, "geometry": { "type": Point, "coordinates": [ -87.921667, 43.221111 ] } }
+,
+{ "type": Feature, "id": 244, "properties": { "FEATURE_ID": 2351041, "FEATURE_NAME": Interchange 89, "FEATURE_CLASS": Crossing, "COUNTY_NAME": Ozaukee, "LAT": 43.280000, "LON": -87.921389, "RESULT": Interchange 89 ( Crossing ) }, "geometry": { "type": Point, "coordinates": [ -87.921389, 43.280000 ] } }
+,
+{ "type": Feature, "id": 245, "properties": { "FEATURE_ID": 2351426, "FEATURE_NAME": Interchange 92, "FEATURE_CLASS": Crossing, "COUNTY_NAME": Ozaukee, "LAT": 43.320278, "LON": -87.919444, "RESULT": Interchange 92 ( Crossing ) }, "geometry": { "type": Point, "coordinates": [ -87.919444, 43.320278 ] } }
+,
+{ "type": Feature, "id": 246, "properties": { "FEATURE_ID": 2351427, "FEATURE_NAME": Interchange 93, "FEATURE_CLASS": Crossing, "COUNTY_NAME": Ozaukee, "LAT": 43.340278, "LON": -87.924722, "RESULT": Interchange 93 ( Crossing ) }, "geometry": { "type": Point, "coordinates": [ -87.924722, 43.340278 ] } }
+,
+{ "type": Feature, "id": 247, "properties": { "FEATURE_ID": 2351428, "FEATURE_NAME": Interchange 96, "FEATURE_CLASS": Crossing, "COUNTY_NAME": Ozaukee, "LAT": 43.385000, "LON": -87.928056, "RESULT": Interchange 96 ( Crossing ) }, "geometry": { "type": Point, "coordinates": [ -87.928056, 43.385000 ] } }
+,
+{ "type": Feature, "id": 248, "properties": { "FEATURE_ID": 2351429, "FEATURE_NAME": Interchange 97, "FEATURE_CLASS": Crossing, "COUNTY_NAME": Ozaukee, "LAT": 43.401389, "LON": -87.928056, "RESULT": Interchange 97 ( Crossing ) }, "geometry": { "type": Point, "coordinates": [ -87.928056, 43.401389 ] } }
+,
+{ "type": Feature, "id": 249, "properties": { "FEATURE_ID": 2351430, "FEATURE_NAME": Interchange 100, "FEATURE_CLASS": Crossing, "COUNTY_NAME": Ozaukee, "LAT": 43.411667, "LON": -87.871389, "RESULT": Interchange 100 ( Crossing ) }, "geometry": { "type": Point, "coordinates": [ -87.871389, 43.411667 ] } }
+,
+{ "type": Feature, "id": 250, "properties": { "FEATURE_ID": 2351431, "FEATURE_NAME": Interchange 107, "FEATURE_CLASS": Crossing, "COUNTY_NAME": Ozaukee, "LAT": 43.499444, "LON": -87.830278, "RESULT": Interchange 107 ( Crossing ) }, "geometry": { "type": Point, "coordinates": [ -87.830278, 43.499444 ] } }
+,
+{ "type": Feature, "id": 251, "properties": { "FEATURE_ID": 2354989, "FEATURE_NAME": Cedarburg Wastewater Treatment Facility, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.288611, "LON": -87.975278, "RESULT": Cedarburg Wastewater Treatment Facility ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.975278, 43.288611 ] } }
+,
+{ "type": Feature, "id": 252, "properties": { "FEATURE_ID": 2358190, "FEATURE_NAME": Belgium Sewage Treatment Plant, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.513333, "LON": -87.854167, "RESULT": Belgium Sewage Treatment Plant ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.854167, 43.513333 ] } }
+,
+{ "type": Feature, "id": 253, "properties": { "FEATURE_ID": 2516915, "FEATURE_NAME": Barthel Fruit Farm, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.241944, "LON": -88.028889, "RESULT": Barthel Fruit Farm ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -88.028889, 43.241944 ] } }
+,
+{ "type": Feature, "id": 254, "properties": { "FEATURE_ID": 2516926, "FEATURE_NAME": Niemann Orchards, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.281944, "LON": -88.034444, "RESULT": Niemann Orchards ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -88.034444, 43.281944 ] } }
+,
+{ "type": Feature, "id": 255, "properties": { "FEATURE_ID": 2558888, "FEATURE_NAME": Horn Lake, "FEATURE_CLASS": Lake, "COUNTY_NAME": Ozaukee, "LAT": 43.404112, "LON": -88.005381, "RESULT": Horn Lake ( Lake ) }, "geometry": { "type": Point, "coordinates": [ -88.005381, 43.404112 ] } }
+,
+{ "type": Feature, "id": 256, "properties": { "FEATURE_ID": 2585078, "FEATURE_NAME": Waubeka Census Designated Place, "FEATURE_CLASS": Census, "COUNTY_NAME": Ozaukee, "LAT": 43.470210, "LON": -87.993465, "RESULT": Waubeka Census Designated Place ( Census ) }, "geometry": { "type": Point, "coordinates": [ -87.993465, 43.470210 ] } }
+,
+{ "type": Feature, "id": 257, "properties": { "FEATURE_ID": 2697477, "FEATURE_NAME": Belgium Volunteer Fire Department, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.501374, "LON": -87.852790, "RESULT": Belgium Volunteer Fire Department ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.852790, 43.501374 ] } }
+,
+{ "type": Feature, "id": 258, "properties": { "FEATURE_ID": 2697487, "FEATURE_NAME": Fredonia Fire Department, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.468594, "LON": -87.951060, "RESULT": Fredonia Fire Department ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.951060, 43.468594 ] } }
+,
+{ "type": Feature, "id": 259, "properties": { "FEATURE_ID": 2697494, "FEATURE_NAME": Saukville Fire Department and Rescue Squad, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.383213, "LON": -87.949688, "RESULT": Saukville Fire Department and Rescue Squad ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.949688, 43.383213 ] } }
+,
+{ "type": Feature, "id": 260, "properties": { "FEATURE_ID": 2697517, "FEATURE_NAME": Mequon Fire Department Station 2, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.232486, "LON": -87.923152, "RESULT": Mequon Fire Department Station 2 ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.923152, 43.232486 ] } }
+,
+{ "type": Feature, "id": 261, "properties": { "FEATURE_ID": 2697557, "FEATURE_NAME": Grafton Volunteer Fire Department, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.316899, "LON": -87.950814, "RESULT": Grafton Volunteer Fire Department ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.950814, 43.316899 ] } }
+,
+{ "type": Feature, "id": 262, "properties": { "FEATURE_ID": 2697581, "FEATURE_NAME": Cedarburg Volunteer Fire Department Station 1, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.298511, "LON": -87.986696, "RESULT": Cedarburg Volunteer Fire Department Station 1 ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.986696, 43.298511 ] } }
+,
+{ "type": Feature, "id": 263, "properties": { "FEATURE_ID": 2697613, "FEATURE_NAME": Cedarburg Volunteer Fire Department Station 2, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.324032, "LON": -88.005175, "RESULT": Cedarburg Volunteer Fire Department Station 2 ( Building ) }, "geometry": { "type": Point, "coordinates": [ -88.005175, 43.324032 ] } }
+,
+{ "type": Feature, "id": 264, "properties": { "FEATURE_ID": 2697859, "FEATURE_NAME": Waubeka Volunteer Fire Department, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.473405, "LON": -87.991308, "RESULT": Waubeka Volunteer Fire Department ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.991308, 43.473405 ] } }
+,
+{ "type": Feature, "id": 265, "properties": { "FEATURE_ID": 2697897, "FEATURE_NAME": Mequon Fire Department Station 1, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.222253, "LON": -87.989160, "RESULT": Mequon Fire Department Station 1 ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.989160, 43.222253 ] } }
+,
+{ "type": Feature, "id": 266, "properties": { "FEATURE_ID": 2698019, "FEATURE_NAME": Thiensville Volunteer Fire Department and Ambulance, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.232405, "LON": -87.978620, "RESULT": Thiensville Volunteer Fire Department and Ambulance ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.978620, 43.232405 ] } }
+,
+{ "type": Feature, "id": 267, "properties": { "FEATURE_ID": 2698040, "FEATURE_NAME": Port Washington Fire Department, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.389709, "LON": -87.871416, "RESULT": Port Washington Fire Department ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.871416, 43.389709 ] } }
+,
+{ "type": Feature, "id": 268, "properties": { "FEATURE_ID": 2698339, "FEATURE_NAME": Mequon Ambulance Service Station 1, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.222199, "LON": -87.989163, "RESULT": Mequon Ambulance Service Station 1 ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.989163, 43.222199 ] } }
+,
+{ "type": Feature, "id": 269, "properties": { "FEATURE_ID": 2698340, "FEATURE_NAME": Northern Ozaukee Ambulance, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.468646, "LON": -87.951065, "RESULT": Northern Ozaukee Ambulance ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.951065, 43.468646 ] } }
+,
+{ "type": Feature, "id": 270, "properties": { "FEATURE_ID": 2698342, "FEATURE_NAME": Ohana Ambulance and Emergency Medical Services, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.378228, "LON": -87.891958, "RESULT": Ohana Ambulance and Emergency Medical Services ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.891958, 43.378228 ] } }
+,
+{ "type": Feature, "id": 271, "properties": { "FEATURE_ID": 2698344, "FEATURE_NAME": Mequon Ambulance Service Station 2, "FEATURE_CLASS": Building, "COUNTY_NAME": Ozaukee, "LAT": 43.232488, "LON": -87.923153, "RESULT": Mequon Ambulance Service Station 2 ( Building ) }, "geometry": { "type": Point, "coordinates": [ -87.923153, 43.232488 ] } }
+,
+{ "type": Feature, "id": 272, "properties": { "FEATURE_ID": 2706499, "FEATURE_NAME": Cedar Lynn Farm, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.355833, "LON": -88.046111, "RESULT": Cedar Lynn Farm ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -88.046111, 43.355833 ] } }
+,
+{ "type": Feature, "id": 273, "properties": { "FEATURE_ID": 2711478, "FEATURE_NAME": Hartmann Pit, "FEATURE_CLASS": Mine, "COUNTY_NAME": Ozaukee, "LAT": 43.514722, "LON": -88.008611, "RESULT": Hartmann Pit ( Mine ) }, "geometry": { "type": Point, "coordinates": [ -88.008611, 43.514722 ] } }
+,
+{ "type": Feature, "id": 274, "properties": { "FEATURE_ID": 2711479, "FEATURE_NAME": Spring Lake Pit, "FEATURE_CLASS": Mine, "COUNTY_NAME": Ozaukee, "LAT": 43.535000, "LON": -87.966111, "RESULT": Spring Lake Pit ( Mine ) }, "geometry": { "type": Point, "coordinates": [ -87.966111, 43.535000 ] } }
+,
+{ "type": Feature, "id": 275, "properties": { "FEATURE_ID": 2716153, "FEATURE_NAME": Our Savior Lutheran School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.331802, "LON": -87.932378, "RESULT": Our Savior Lutheran School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.932378, 43.331802 ] } }
+,
+{ "type": Feature, "id": 276, "properties": { "FEATURE_ID": 2716154, "FEATURE_NAME": Ozaukee Christian School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.386054, "LON": -87.943330, "RESULT": Ozaukee Christian School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.943330, 43.386054 ] } }
+,
+{ "type": Feature, "id": 277, "properties": { "FEATURE_ID": 2716155, "FEATURE_NAME": Lumen Christi Catholic School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.222997, "LON": -87.944663, "RESULT": Lumen Christi Catholic School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.944663, 43.222997 ] } }
+,
+{ "type": Feature, "id": 278, "properties": { "FEATURE_ID": 2716278, "FEATURE_NAME": Ozaukee Elementary School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.476496, "LON": -87.943048, "RESULT": Ozaukee Elementary School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.943048, 43.476496 ] } }
+,
+{ "type": Feature, "id": 279, "properties": { "FEATURE_ID": 2716330, "FEATURE_NAME": Rosemary School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.469839, "LON": -87.949246, "RESULT": Rosemary School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.949246, 43.469839 ] } }
+,
+{ "type": Feature, "id": 280, "properties": { "FEATURE_ID": 2716408, "FEATURE_NAME": Wisconsin Virtual Academy, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.476429, "LON": -87.943090, "RESULT": Wisconsin Virtual Academy ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.943090, 43.476429 ] } }
+,
+{ "type": Feature, "id": 281, "properties": { "FEATURE_ID": 2716452, "FEATURE_NAME": Mequon Montessori School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.222136, "LON": -87.944618, "RESULT": Mequon Montessori School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.944618, 43.222136 ] } }
+,
+{ "type": Feature, "id": 282, "properties": { "FEATURE_ID": 2716551, "FEATURE_NAME": Blue Sky School of Professional Massage and Therapeutic Bodywork, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.308723, "LON": -87.957565, "RESULT": Blue Sky School of Professional Massage and Therapeutic Bodywork ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.957565, 43.308723 ] } }
+,
+{ "type": Feature, "id": 283, "properties": { "FEATURE_ID": 2716654, "FEATURE_NAME": Port Washington Catholic School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.408982, "LON": -87.869220, "RESULT": Port Washington Catholic School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.869220, 43.408982 ] } }
+,
+{ "type": Feature, "id": 284, "properties": { "FEATURE_ID": 2716695, "FEATURE_NAME": Parkview Elementary School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.306981, "LON": -88.000757, "RESULT": Parkview Elementary School ( School ) }, "geometry": { "type": Point, "coordinates": [ -88.000757, 43.306981 ] } }
+,
+{ "type": Feature, "id": 285, "properties": { "FEATURE_ID": 2716696, "FEATURE_NAME": Westlawn Elementary School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.287365, "LON": -87.990986, "RESULT": Westlawn Elementary School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.990986, 43.287365 ] } }
+,
+{ "type": Feature, "id": 286, "properties": { "FEATURE_ID": 2716766, "FEATURE_NAME": Saint Mary Parish School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.499639, "LON": -87.818732, "RESULT": Saint Mary Parish School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.818732, 43.499639 ] } }
+,
+{ "type": Feature, "id": 287, "properties": { "FEATURE_ID": 2716799, "FEATURE_NAME": Ozaukee M"id"dle School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.476429, "LON": -87.943090, "RESULT": Ozaukee M"id"dle School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.943090, 43.476429 ] } }
+,
+{ "type": Feature, "id": 288, "properties": { "FEATURE_ID": 2716903, "FEATURE_NAME": Honors High Online School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.476456, "LON": -87.943158, "RESULT": Honors High Online School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.943158, 43.476456 ] } }
+,
+{ "type": Feature, "id": 289, "properties": { "FEATURE_ID": 2716904, "FEATURE_NAME": Thorson Elementary School, "FEATURE_CLASS": School, "COUNTY_NAME": Ozaukee, "LAT": 43.309592, "LON": -87.973324, "RESULT": Thorson Elementary School ( School ) }, "geometry": { "type": Point, "coordinates": [ -87.973324, 43.309592 ] } }
+,
+{ "type": Feature, "id": 290, "properties": { "FEATURE_ID": 2723884, "FEATURE_NAME": Fredonia Wastewater Treatment Plant, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.467778, "LON": -87.962778, "RESULT": Fredonia Wastewater Treatment Plant ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.962778, 43.467778 ] } }
+,
+{ "type": Feature, "id": 291, "properties": { "FEATURE_ID": 2723885, "FEATURE_NAME": Grafton Wastewater Treatment Plant, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.308333, "LON": -87.955556, "RESULT": Grafton Wastewater Treatment Plant ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.955556, 43.308333 ] } }
+,
+{ "type": Feature, "id": 292, "properties": { "FEATURE_ID": 2723886, "FEATURE_NAME": Port Washington Wastewater Treatment Plant, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.392778, "LON": -87.864444, "RESULT": Port Washington Wastewater Treatment Plant ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.864444, 43.392778 ] } }
+,
+{ "type": Feature, "id": 293, "properties": { "FEATURE_ID": 2723887, "FEATURE_NAME": Saukville Wastewater Treatment Plant, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.376111, "LON": -87.940000, "RESULT": Saukville Wastewater Treatment Plant ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -87.940000, 43.376111 ] } }
+,
+{ "type": Feature, "id": 294, "properties": { "FEATURE_ID": 2725342, "FEATURE_NAME": Frenz Orchards, "FEATURE_CLASS": Locale, "COUNTY_NAME": Ozaukee, "LAT": 43.259444, "LON": -88.040833, "RESULT": Frenz Orchards ( Locale ) }, "geometry": { "type": Point, "coordinates": [ -88.040833, 43.259444 ] } }
+
+]
+}
